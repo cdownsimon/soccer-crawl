@@ -1,2186 +1,2266 @@
 {
-    "1225358": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225358/Live/Italy-Serie-A-2017-2018-Atalanta-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 04-Feb-18, 14:00"
-    },
-    "1225233": {
-        "home_team_id": 278,
-        "half_time_result": "1 : 2",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225233/Live/Italy-Serie-A-2017-2018-Genoa-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225444": {
-        "home_team_id": 2889,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225444/Live/Italy-Serie-A-2017-2018-Sassuolo-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 11-Mar-18, 14:00"
-    },
-    "1225392": {
-        "home_team_id": 72,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225392/Live/Italy-Serie-A-2017-2018-Torino-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sun, 18-Feb-18, 11:30"
-    },
-    "1225247": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225247/Live/Italy-Serie-A-2017-2018-Udinese-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 29-Oct-17, 14:00"
-    },
-    "1225338": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225338/Live/Italy-Serie-A-2017-2018-Bologna-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
-    },
-    "1225371": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225371/Live/Italy-Serie-A-2017-2018-Sassuolo-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 11-Feb-18, 11:30"
-    },
-    "1225337": {
-        "home_team_id": 267,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225337/Live/Italy-Serie-A-2017-2018-Chievo-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Fri, 05-Jan-18, 17:00"
-    },
-    "1225223": {
-        "home_team_id": 276,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225223/Live/Italy-Serie-A-2017-2018-Napoli-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 21-Oct-17, 19:45"
-    },
-    "1225339": {
-        "home_team_id": 77,
-        "half_time_result": "2 : 1",
-        "result": "5 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225339/Live/Italy-Serie-A-2017-2018-Lazio-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
-    },
-    "1225222": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225222/Live/Italy-Serie-A-2017-2018-AC-Milan-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 22-Oct-17, 14:00"
-    },
-    "1225397": {
-        "home_team_id": 271,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225397/Live/Italy-Serie-A-2017-2018-Sampdoria-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 25-Feb-18, 14:00"
-    },
-    "1225162": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 3",
-        "result": "0 : 5",
-        "match_link": "https://www.whoscored.com/Matches/1225162/Live/Italy-Serie-A-2017-2018-Verona-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 10-Sep-17, 14:00"
-    },
-    "1225366": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225366/Live/Italy-Serie-A-2017-2018-Cagliari-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 04-Feb-18, 14:00"
-    },
-    "1225218": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225218/Live/Italy-Serie-A-2017-2018-Atalanta-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sun, 22-Oct-17, 14:00"
-    },
-    "1225201": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225201/Live/Italy-Serie-A-2017-2018-Genoa-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 30-Sep-17, 19:45"
-    },
-    "1225334": {
-        "home_team_id": 1502,
-        "half_time_result": "2 : 4",
-        "result": "2 : 5",
-        "match_link": "https://www.whoscored.com/Matches/1225334/Live/Italy-Serie-A-2017-2018-SPAL-2013-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sat, 06-Jan-18, 14:00"
-    },
-    "1225393": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225393/Live/Italy-Serie-A-2017-2018-Crotone-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 25-Feb-18, 11:30"
-    },
-    "1225285": {
-        "home_team_id": 84,
-        "half_time_result": "2 : 0",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225285/Live/Italy-Serie-A-2017-2018-Roma-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Fri, 01-Dec-17, 17:30"
-    },
-    "1225309": {
-        "home_team_id": 267,
-        "half_time_result": "1 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225309/Live/Italy-Serie-A-2017-2018-Chievo-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Fri, 22-Dec-17, 17:00"
-    },
-    "1225297": {
-        "home_team_id": 86,
-        "half_time_result": "2 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225297/Live/Italy-Serie-A-2017-2018-Udinese-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 10-Dec-17, 14:00"
-    },
-    "1225390": {
-        "home_team_id": 278,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225390/Live/Italy-Serie-A-2017-2018-Genoa-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 17-Feb-18, 19:45"
-    },
-    "1225272": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225272/Live/Italy-Serie-A-2017-2018-Genoa-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 26-Nov-17, 14:00"
-    },
-    "1225231": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 2",
-        "result": "1 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225231/Live/Italy-Serie-A-2017-2018-Chievo-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225262": {
-        "home_team_id": 276,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225262/Live/Italy-Serie-A-2017-2018-Napoli-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sat, 18-Nov-17, 19:45"
-    },
-    "1225260": {
-        "home_team_id": 76,
-        "half_time_result": "2 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225260/Live/Italy-Serie-A-2017-2018-Verona-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Mon, 20-Nov-17, 19:45"
-    },
-    "1225188": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225188/Live/Italy-Serie-A-2017-2018-Cagliari-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 24-Sep-17, 14:00"
-    },
-    "1225329": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225329/Live/Italy-Serie-A-2017-2018-Torino-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 06-Jan-18, 11:30"
-    },
-    "1225380": {
-        "home_team_id": 276,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225380/Live/Italy-Serie-A-2017-2018-Napoli-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 18-Feb-18, 14:00"
-    },
-    "1225313": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225313/Live/Italy-Serie-A-2017-2018-AC-Milan-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sat, 23-Dec-17, 17:00"
-    },
-    "1225373": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225373/Live/Italy-Serie-A-2017-2018-Sampdoria-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 11-Feb-18, 14:00"
-    },
-    "1225229": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225229/Live/Italy-Serie-A-2017-2018-Bologna-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225182": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225182/Live/Italy-Serie-A-2017-2018-Genoa-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225195": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225195/Live/Italy-Serie-A-2017-2018-Sampdoria-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 24-Sep-17, 11:30"
-    },
-    "1225306": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225306/Live/Italy-Serie-A-2017-2018-Sampdoria-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 17-Dec-17, 14:00"
-    },
-    "1225267": {
-        "home_team_id": 86,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225267/Live/Italy-Serie-A-2017-2018-Udinese-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 19-Nov-17, 14:00"
-    },
-    "1225293": {
-        "home_team_id": 80,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225293/Live/Italy-Serie-A-2017-2018-AC-Milan-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sun, 10-Dec-17, 19:45"
-    },
-    "1225176": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225176/Live/Italy-Serie-A-2017-2018-SPAL-2013-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 17-Sep-17, 14:00"
-    },
-    "1225288": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 2",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225288/Live/Italy-Serie-A-2017-2018-Cagliari-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 09-Dec-17, 17:00"
-    },
-    "1225311": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225311/Live/Italy-Serie-A-2017-2018-Juventus-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sat, 23-Dec-17, 19:45"
-    },
-    "1225173": {
-        "home_team_id": 276,
-        "half_time_result": "4 : 0",
-        "result": "6 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225173/Live/Italy-Serie-A-2017-2018-Napoli-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 17-Sep-17, 14:00"
-    },
-    "1225363": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225363/Live/Italy-Serie-A-2017-2018-Benevento-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 04-Feb-18, 19:45"
-    },
-    "1225340": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 1",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225340/Live/Italy-Serie-A-2017-2018-Verona-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
-    },
-    "1225326": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225326/Live/Italy-Serie-A-2017-2018-Sampdoria-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225336": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225336/Live/Italy-Serie-A-2017-2018-Genoa-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sat, 06-Jan-18, 14:00"
-    },
-    "1225286": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225286/Live/Italy-Serie-A-2017-2018-Sampdoria-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 03-Dec-17, 19:45"
-    },
-    "1225298": {
-        "home_team_id": 300,
-        "half_time_result": "2 : 2",
-        "result": "3 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225298/Live/Italy-Serie-A-2017-2018-Atalanta-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 17-Dec-17, 19:45"
-    },
-    "1225215": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225215/Live/Italy-Serie-A-2017-2018-Roma-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sat, 14-Oct-17, 19:45"
-    },
-    "1225379": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225379/Live/Italy-Serie-A-2017-2018-Bologna-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 18-Feb-18, 14:00"
-    },
-    "1225327": {
-        "home_team_id": 72,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225327/Live/Italy-Serie-A-2017-2018-Torino-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225230": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225230/Live/Italy-Serie-A-2017-2018-Cagliari-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225400": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225400/Live/Italy-Serie-A-2017-2018-SPAL-2013-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 03-Mar-18, 14:00"
-    },
-    "1225244": {
-        "home_team_id": 271,
-        "half_time_result": "3 : 1",
-        "result": "4 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225244/Live/Italy-Serie-A-2017-2018-Sampdoria-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 29-Oct-17, 14:00"
-    },
-    "1225234": {
-        "home_team_id": 75,
-        "half_time_result": "2 : 0",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225234/Live/Italy-Serie-A-2017-2018-Inter-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Tue, 24-Oct-17, 19:45"
-    },
-    "1225348": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 1",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225348/Live/Italy-Serie-A-2017-2018-Sassuolo-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sat, 27-Jan-18, 17:00"
-    },
-    "1225315": {
-        "home_team_id": 2889,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225315/Live/Italy-Serie-A-2017-2018-Sassuolo-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 23-Dec-17, 14:00"
-    },
-    "1225299": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 0",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225299/Live/Italy-Serie-A-2017-2018-Benevento-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 17-Dec-17, 17:00"
-    },
-    "1225240": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225240/Live/Italy-Serie-A-2017-2018-Verona-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Mon, 30-Oct-17, 19:45"
-    },
-    "1225304": {
-        "home_team_id": 75,
-        "half_time_result": "1 : 1",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225304/Live/Italy-Serie-A-2017-2018-Inter-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sat, 16-Dec-17, 14:00"
-    },
-    "1225316": {
-        "home_team_id": 1502,
-        "half_time_result": "1 : 2",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225316/Live/Italy-Serie-A-2017-2018-SPAL-2013-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sat, 23-Dec-17, 14:00"
-    },
-    "1225303": {
-        "home_team_id": 76,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225303/Live/Italy-Serie-A-2017-2018-Verona-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 17-Dec-17, 11:30"
-    },
-    "1225314": {
-        "home_team_id": 276,
-        "half_time_result": "3 : 2",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225314/Live/Italy-Serie-A-2017-2018-Napoli-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 23-Dec-17, 14:00"
-    },
-    "1225146": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225146/Live/Italy-Serie-A-2017-2018-Sassuolo-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225148": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225148/Live/Italy-Serie-A-2017-2018-Benevento-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 26-Aug-17, 17:00"
-    },
-    "1225161": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225161/Live/Italy-Serie-A-2017-2018-Cagliari-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 10-Sep-17, 14:00"
-    },
-    "1225369": {
-        "home_team_id": 84,
-        "half_time_result": "1 : 1",
-        "result": "5 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225369/Live/Italy-Serie-A-2017-2018-Roma-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 11-Feb-18, 19:45"
-    },
-    "1225307": {
-        "home_team_id": 72,
-        "half_time_result": "0 : 3",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225307/Live/Italy-Serie-A-2017-2018-Torino-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sat, 16-Dec-17, 17:00"
-    },
-    "1225446": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225446/Live/Italy-Serie-A-2017-2018-Roma-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Fri, 09-Mar-18, 19:45"
-    },
-    "1225294": {
-        "home_team_id": 276,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225294/Live/Italy-Serie-A-2017-2018-Napoli-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 10-Dec-17, 14:00"
-    },
-    "1225362": {
-        "home_team_id": 86,
-        "half_time_result": "0 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225362/Live/Italy-Serie-A-2017-2018-Udinese-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 04-Feb-18, 14:00"
-    },
-    "1225208": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225208/Live/Italy-Serie-A-2017-2018-Bologna-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 15-Oct-17, 14:00"
-    },
-    "1225183": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225183/Live/Italy-Serie-A-2017-2018-Verona-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225317": {
-        "home_team_id": 86,
-        "half_time_result": "2 : 0",
-        "result": "4 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225317/Live/Italy-Serie-A-2017-2018-Udinese-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sat, 23-Dec-17, 14:00"
-    },
-    "1225178": {
-        "home_team_id": 300,
-        "half_time_result": "3 : 0",
-        "result": "5 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225178/Live/Italy-Serie-A-2017-2018-Atalanta-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225165": {
-        "home_team_id": 77,
-        "half_time_result": "2 : 0",
-        "result": "4 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225165/Live/Italy-Serie-A-2017-2018-Lazio-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 10-Sep-17, 15:00"
-    },
-    "1225383": {
-        "home_team_id": 73,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225383/Live/Italy-Serie-A-2017-2018-Fiorentina-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 25-Feb-18, 14:00"
-    },
-    "1225243": {
-        "home_team_id": 84,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225243/Live/Italy-Serie-A-2017-2018-Roma-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 28-Oct-17, 19:45"
-    },
-    "1225224": {
-        "home_team_id": 271,
-        "half_time_result": "3 : 0",
-        "result": "5 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225224/Live/Italy-Serie-A-2017-2018-Sampdoria-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sat, 21-Oct-17, 17:00"
-    },
-    "1225351": {
-        "home_team_id": 779,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225351/Live/Italy-Serie-A-2017-2018-Crotone-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 28-Jan-18, 14:00"
-    },
-    "1225396": {
-        "home_team_id": 80,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225396/Live/Italy-Serie-A-2017-2018-AC-Milan-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sun, 18-Feb-18, 19:45"
-    },
-    "1225246": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225246/Live/Italy-Serie-A-2017-2018-Torino-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 29-Oct-17, 19:45"
-    },
-    "1225436": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 1",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225436/Live/Italy-Serie-A-2017-2018-Cagliari-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 11-Mar-18, 14:00"
-    },
-    "1225205": {
-        "home_team_id": 1502,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225205/Live/Italy-Serie-A-2017-2018-SPAL-2013-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 01-Oct-17, 14:00"
-    },
-    "1225187": {
-        "home_team_id": 86,
-        "half_time_result": "0 : 2",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225187/Live/Italy-Serie-A-2017-2018-Udinese-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225281": {
-        "home_team_id": 73,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225281/Live/Italy-Serie-A-2017-2018-Fiorentina-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 03-Dec-17, 14:00"
-    },
-    "1225168": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225168/Live/Italy-Serie-A-2017-2018-Chievo-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 17-Sep-17, 17:00"
-    },
-    "1225310": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225310/Live/Italy-Serie-A-2017-2018-Genoa-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sat, 23-Dec-17, 14:00"
-    },
-    "1225440": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225440/Live/Italy-Serie-A-2017-2018-Inter-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 11-Mar-18, 19:45"
-    },
-    "1225323": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 1",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225323/Live/Italy-Serie-A-2017-2018-Verona-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sat, 30-Dec-17, 19:45"
-    },
-    "1225145": {
-        "home_team_id": 271,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225145/Live/Italy-Serie-A-2017-2018-Sampdoria-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225324": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225324/Live/Italy-Serie-A-2017-2018-Inter-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sat, 30-Dec-17, 17:00"
-    },
-    "1225385": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225385/Live/Italy-Serie-A-2017-2018-Bologna-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sat, 24-Feb-18, 17:00"
-    },
-    "1225248": {
-        "home_team_id": 300,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225248/Live/Italy-Serie-A-2017-2018-Atalanta-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 05-Nov-17, 17:00"
-    },
-    "1225194": {
-        "home_team_id": 84,
-        "half_time_result": "3 : 0",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225194/Live/Italy-Serie-A-2017-2018-Roma-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sat, 23-Sep-17, 14:00"
-    },
-    "1225263": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225263/Live/Italy-Serie-A-2017-2018-Roma-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sat, 18-Nov-17, 17:00"
-    },
-    "1225365": {
-        "home_team_id": 87,
-        "half_time_result": "4 : 0",
-        "result": "7 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225365/Live/Italy-Serie-A-2017-2018-Juventus-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 04-Feb-18, 14:00"
-    },
-    "1225343": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225343/Live/Italy-Serie-A-2017-2018-Cagliari-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 21-Jan-18, 17:00"
-    },
-    "1225169": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225169/Live/Italy-Serie-A-2017-2018-Crotone-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 16-Sep-17, 14:00"
-    },
-    "1225300": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 2",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225300/Live/Italy-Serie-A-2017-2018-Bologna-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sun, 17-Dec-17, 14:00"
-    },
-    "1225219": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 1",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225219/Live/Italy-Serie-A-2017-2018-Benevento-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 22-Oct-17, 14:00"
-    },
-    "1225181": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225181/Live/Italy-Serie-A-2017-2018-Cagliari-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225350": {
-        "home_team_id": 276,
-        "half_time_result": "2 : 1",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225350/Live/Italy-Serie-A-2017-2018-Napoli-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sun, 28-Jan-18, 14:00"
-    },
-    "1225388": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225388/Live/Italy-Serie-A-2017-2018-Lazio-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Mon, 19-Feb-18, 19:45"
-    },
-    "1225152": {
-        "home_team_id": 278,
-        "half_time_result": "2 : 2",
-        "result": "2 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225152/Live/Italy-Serie-A-2017-2018-Genoa-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sat, 26-Aug-17, 17:00"
-    },
-    "1225213": {
-        "home_team_id": 75,
-        "half_time_result": "1 : 0",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225213/Live/Italy-Serie-A-2017-2018-Inter-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 15-Oct-17, 19:45"
-    },
-    "1225356": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225356/Live/Italy-Serie-A-2017-2018-Roma-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sun, 28-Jan-18, 19:45"
-    },
-    "1225197": {
-        "home_team_id": 1502,
-        "half_time_result": "1 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225197/Live/Italy-Serie-A-2017-2018-SPAL-2013-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sat, 23-Sep-17, 17:00"
-    },
-    "1225228": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225228/Live/Italy-Serie-A-2017-2018-Atalanta-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Wed, 25-Oct-17, 17:30"
-    },
-    "1225321": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225321/Live/Italy-Serie-A-2017-2018-Crotone-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Fri, 29-Dec-17, 19:45"
-    },
-    "1225331": {
-        "home_team_id": 276,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225331/Live/Italy-Serie-A-2017-2018-Napoli-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sat, 06-Jan-18, 14:00"
-    },
-    "1225252": {
-        "home_team_id": 73,
-        "half_time_result": "2 : 2",
-        "result": "2 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225252/Live/Italy-Serie-A-2017-2018-Fiorentina-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 05-Nov-17, 14:00"
-    },
-    "1225179": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 2",
-        "result": "0 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225179/Live/Italy-Serie-A-2017-2018-Benevento-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Wed, 20-Sep-17, 17:00"
-    },
-    "1225349": {
-        "home_team_id": 72,
-        "half_time_result": "3 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225349/Live/Italy-Serie-A-2017-2018-Torino-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 28-Jan-18, 14:00"
-    },
-    "1225382": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225382/Live/Italy-Serie-A-2017-2018-Inter-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sat, 24-Feb-18, 19:45"
-    },
-    "1225302": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225302/Live/Italy-Serie-A-2017-2018-Fiorentina-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 17-Dec-17, 14:00"
-    },
-    "1225235": {
-        "home_team_id": 87,
-        "half_time_result": "2 : 1",
-        "result": "4 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225235/Live/Italy-Serie-A-2017-2018-Juventus-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225214": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225214/Live/Italy-Serie-A-2017-2018-Juventus-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sat, 14-Oct-17, 17:00"
-    },
-    "1225160": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 0",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225160/Live/Italy-Serie-A-2017-2018-Bologna-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 10-Sep-17, 19:45"
-    },
-    "1225264": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 0",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225264/Live/Italy-Serie-A-2017-2018-Sampdoria-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sun, 19-Nov-17, 14:00"
-    },
-    "1225147": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225147/Live/Italy-Serie-A-2017-2018-Udinese-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225153": {
-        "home_team_id": 80,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225153/Live/Italy-Serie-A-2017-2018-AC-Milan-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225368": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225368/Live/Italy-Serie-A-2017-2018-Crotone-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sat, 10-Feb-18, 17:00"
-    },
-    "1225156": {
-        "home_team_id": 1502,
-        "half_time_result": "1 : 0",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225156/Live/Italy-Serie-A-2017-2018-SPAL-2013-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225166": {
-        "home_team_id": 271,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225166/Live/Italy-Serie-A-2017-2018-Sampdoria-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Wed, 24-Jan-18, 19:45"
-    },
-    "1225268": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225268/Live/Italy-Serie-A-2017-2018-Atalanta-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Mon, 27-Nov-17, 19:45"
-    },
-    "1225206": {
-        "home_team_id": 72,
-        "half_time_result": "2 : 0",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225206/Live/Italy-Serie-A-2017-2018-Torino-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 01-Oct-17, 14:00"
-    },
-    "1225253": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225253/Live/Italy-Serie-A-2017-2018-Genoa-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 04-Nov-17, 19:45"
-    },
-    "1225193": {
-        "home_team_id": 87,
-        "half_time_result": "2 : 0",
-        "result": "4 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225193/Live/Italy-Serie-A-2017-2018-Juventus-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sat, 23-Sep-17, 19:45"
-    },
-    "1225360": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225360/Live/Italy-Serie-A-2017-2018-Bologna-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 04-Feb-18, 14:00"
-    },
-    "1225319": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225319/Live/Italy-Serie-A-2017-2018-Benevento-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225278": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 1",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225278/Live/Italy-Serie-A-2017-2018-Benevento-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 03-Dec-17, 11:30"
-    },
-    "1225301": {
-        "home_team_id": 779,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225301/Live/Italy-Serie-A-2017-2018-Crotone-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 17-Dec-17, 14:00"
-    },
-    "1225221": {
-        "home_team_id": 77,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225221/Live/Italy-Serie-A-2017-2018-Lazio-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 22-Oct-17, 19:45"
-    },
-    "1225345": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225345/Live/Italy-Serie-A-2017-2018-Inter-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 21-Jan-18, 19:45"
-    },
-    "1225346": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225346/Live/Italy-Serie-A-2017-2018-Udinese-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
-    },
-    "1225378": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225378/Live/Italy-Serie-A-2017-2018-Chievo-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sat, 17-Feb-18, 17:00"
-    },
-    "1225370": {
-        "home_team_id": 75,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225370/Live/Italy-Serie-A-2017-2018-Inter-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sun, 11-Feb-18, 14:00"
-    },
-    "1225199": {
-        "home_team_id": 1503,
-        "half_time_result": "1 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225199/Live/Italy-Serie-A-2017-2018-Benevento-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sun, 01-Oct-17, 14:00"
-    },
-    "1225216": {
-        "home_team_id": 271,
-        "half_time_result": "0 : 1",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225216/Live/Italy-Serie-A-2017-2018-Sampdoria-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 15-Oct-17, 14:00"
-    },
-    "1225258": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 0",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225258/Live/Italy-Serie-A-2017-2018-Benevento-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 19-Nov-17, 14:00"
-    },
-    "1225395": {
-        "home_team_id": 76,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225395/Live/Italy-Serie-A-2017-2018-Verona-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sun, 25-Feb-18, 14:00"
-    },
-    "1225282": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225282/Live/Italy-Serie-A-2017-2018-Verona-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Mon, 04-Dec-17, 20:00"
-    },
-    "1225283": {
-        "home_team_id": 75,
-        "half_time_result": "2 : 0",
-        "result": "5 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225283/Live/Italy-Serie-A-2017-2018-Inter-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 03-Dec-17, 14:00"
-    },
-    "1225255": {
-        "home_team_id": 87,
-        "half_time_result": "0 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225255/Live/Italy-Serie-A-2017-2018-Juventus-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 05-Nov-17, 14:00"
-    },
-    "1225389": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225389/Live/Italy-Serie-A-2017-2018-Roma-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 25-Feb-18, 19:45"
-    },
-    "1225273": {
-        "home_team_id": 87,
-        "half_time_result": "0 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225273/Live/Italy-Serie-A-2017-2018-Juventus-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 26-Nov-17, 19:45"
-    },
-    "1225209": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 2",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225209/Live/Italy-Serie-A-2017-2018-Cagliari-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 15-Oct-17, 14:00"
-    },
-    "1225265": {
-        "home_team_id": 1502,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225265/Live/Italy-Serie-A-2017-2018-SPAL-2013-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 19-Nov-17, 14:00"
-    },
-    "1225139": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225139/Live/Italy-Serie-A-2017-2018-Bologna-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225432": {
-        "home_team_id": 73,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225432/Live/Italy-Serie-A-2017-2018-Fiorentina-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 11-Mar-18, 11:30"
-    },
-    "1225174": {
-        "home_team_id": 84,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225174/Live/Italy-Serie-A-2017-2018-Roma-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sat, 16-Sep-17, 19:45"
-    },
-    "1225207": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 0",
-        "result": "4 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225207/Live/Italy-Serie-A-2017-2018-Udinese-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 30-Sep-17, 17:00"
-    },
-    "1225347": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225347/Live/Italy-Serie-A-2017-2018-Sassuolo-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
-    },
-    "1225180": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225180/Live/Italy-Serie-A-2017-2018-Bologna-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Tue, 19-Sep-17, 19:45"
-    },
-    "1225355": {
-        "home_team_id": 80,
-        "half_time_result": "2 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225355/Live/Italy-Serie-A-2017-2018-AC-Milan-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 28-Jan-18, 17:00"
-    },
-    "1225394": {
-        "home_team_id": 86,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225394/Live/Italy-Serie-A-2017-2018-Udinese-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sat, 17-Feb-18, 14:00"
-    },
-    "1225377": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225377/Live/Italy-Serie-A-2017-2018-Torino-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 11-Feb-18, 14:00"
-    },
-    "1225292": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225292/Live/Italy-Serie-A-2017-2018-Lazio-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Mon, 11-Dec-17, 20:00"
-    },
-    "1225361": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225361/Live/Italy-Serie-A-2017-2018-Lazio-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Mon, 05-Feb-18, 19:45"
-    },
-    "1225320": {
-        "home_team_id": 71,
-        "half_time_result": "1 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225320/Live/Italy-Serie-A-2017-2018-Bologna-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225192": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225192/Live/Italy-Serie-A-2017-2018-Inter-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 24-Sep-17, 14:00"
-    },
-    "1225226": {
-        "home_team_id": 72,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225226/Live/Italy-Serie-A-2017-2018-Torino-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 22-Oct-17, 14:00"
-    },
-    "1225261": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225261/Live/Italy-Serie-A-2017-2018-Inter-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 19-Nov-17, 19:45"
-    },
-    "1225296": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 0",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225296/Live/Italy-Serie-A-2017-2018-SPAL-2013-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 10-Dec-17, 14:00"
-    },
-    "1225384": {
-        "home_team_id": 1503,
-        "half_time_result": "1 : 1",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225384/Live/Italy-Serie-A-2017-2018-Benevento-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 18-Feb-18, 14:00"
-    },
-    "1225438": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225438/Live/Italy-Serie-A-2017-2018-Genoa-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 11-Mar-18, 17:00"
-    },
-    "1225204": {
-        "home_team_id": 276,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225204/Live/Italy-Serie-A-2017-2018-Napoli-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 01-Oct-17, 11:30"
-    },
     "1225333": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
         "match_link": "https://www.whoscored.com/Matches/1225333/Live/Italy-Serie-A-2017-2018-Cagliari-Juventus",
         "away_team_id": 87,
-        "match_datetime": "Sat, 06-Jan-18, 19:45"
-    },
-    "1225177": {
-        "home_team_id": 72,
-        "half_time_result": "2 : 2",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225177/Live/Italy-Serie-A-2017-2018-Torino-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sun, 17-Sep-17, 14:00"
-    },
-    "1225276": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 2",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225276/Live/Italy-Serie-A-2017-2018-Sassuolo-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sat, 25-Nov-17, 17:00"
-    },
-    "1225269": {
-        "home_team_id": 71,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225269/Live/Italy-Serie-A-2017-2018-Bologna-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 25-Nov-17, 14:00"
-    },
-    "1225225": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225225/Live/Italy-Serie-A-2017-2018-SPAL-2013-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 22-Oct-17, 14:00"
-    },
-    "1225353": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225353/Live/Italy-Serie-A-2017-2018-SPAL-2013-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sun, 28-Jan-18, 11:30"
-    },
-    "1225144": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225144/Live/Italy-Serie-A-2017-2018-Lazio-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225287": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225287/Live/Italy-Serie-A-2017-2018-Torino-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sat, 02-Dec-17, 19:45"
-    },
-    "1225335": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 1",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225335/Live/Italy-Serie-A-2017-2018-Benevento-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sat, 06-Jan-18, 14:00"
-    },
-    "1225239": {
-        "home_team_id": 779,
-        "half_time_result": "2 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225239/Live/Italy-Serie-A-2017-2018-Crotone-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 29-Oct-17, 14:00"
-    },
-    "1225352": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 2",
-        "result": "1 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225352/Live/Italy-Serie-A-2017-2018-Fiorentina-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 28-Jan-18, 14:00"
-    },
-    "1225158": {
-        "home_team_id": 300,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225158/Live/Italy-Serie-A-2017-2018-Atalanta-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 10-Sep-17, 14:00"
-    },
-    "1225376": {
-        "home_team_id": 1502,
-        "half_time_result": "0 : 1",
-        "result": "0 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225376/Live/Italy-Serie-A-2017-2018-SPAL-2013-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sat, 10-Feb-18, 14:00"
-    },
-    "1225211": {
-        "home_team_id": 73,
-        "half_time_result": "1 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225211/Live/Italy-Serie-A-2017-2018-Fiorentina-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 15-Oct-17, 11:30"
-    },
-    "1225150": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225150/Live/Italy-Serie-A-2017-2018-Crotone-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225387": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 2",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225387/Live/Italy-Serie-A-2017-2018-Sassuolo-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 25-Feb-18, 14:00"
-    },
-    "1225391": {
         "home_team_id": 78,
-        "half_time_result": "0 : 2",
-        "result": "0 : 5",
-        "match_link": "https://www.whoscored.com/Matches/1225391/Live/Italy-Serie-A-2017-2018-Cagliari-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Mon, 26-Feb-18, 19:45"
-    },
-    "1225140": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 3",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225140/Live/Italy-Serie-A-2017-2018-Crotone-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225184": {
-        "home_team_id": 87,
+        "match_datetime": "Sat, 06-Jan-18, 19:45",
         "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225184/Live/Italy-Serie-A-2017-2018-Juventus-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225279": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225279/Live/Italy-Serie-A-2017-2018-Bologna-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sun, 03-Dec-17, 14:00"
-    },
-    "1225251": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225251/Live/Italy-Serie-A-2017-2018-Chievo-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 05-Nov-17, 14:00"
-    },
-    "1225189": {
-        "home_team_id": 779,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225189/Live/Italy-Serie-A-2017-2018-Crotone-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Sun, 24-Sep-17, 14:00"
-    },
-    "1225155": {
-        "home_team_id": 84,
-        "half_time_result": "1 : 0",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225155/Live/Italy-Serie-A-2017-2018-Roma-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 26-Aug-17, 19:45"
-    },
-    "1225256": {
-        "home_team_id": 77,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225256/Live/Italy-Serie-A-2017-2018-Lazio-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Wed, 24-Jan-18, 17:30"
-    },
-    "1225250": {
-        "home_team_id": 78,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225250/Live/Italy-Serie-A-2017-2018-Cagliari-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 05-Nov-17, 14:00"
-    },
-    "1225364": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225364/Live/Italy-Serie-A-2017-2018-Verona-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 04-Feb-18, 11:30"
-    },
-    "1225354": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225354/Live/Italy-Serie-A-2017-2018-Chievo-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sat, 27-Jan-18, 19:45"
-    },
-    "1225143": {
-        "home_team_id": 87,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225143/Live/Italy-Serie-A-2017-2018-Juventus-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sat, 19-Aug-17, 17:00"
-    },
-    "1225142": {
-        "home_team_id": 75,
-        "half_time_result": "2 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225142/Live/Italy-Serie-A-2017-2018-Inter-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 20-Aug-17, 19:45"
-    },
-    "1225332": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225332/Live/Italy-Serie-A-2017-2018-Fiorentina-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Fri, 05-Jan-18, 19:45"
-    },
-    "1225274": {
-        "home_team_id": 77,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225274/Live/Italy-Serie-A-2017-2018-Lazio-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 26-Nov-17, 17:00"
-    },
-    "1225212": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225212/Live/Italy-Serie-A-2017-2018-Verona-Benevento",
-        "away_team_id": 1503,
-        "match_datetime": "Mon, 16-Oct-17, 19:45"
-    },
-    "1225141": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 2",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225141/Live/Italy-Serie-A-2017-2018-Verona-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sat, 19-Aug-17, 19:45"
-    },
-    "1225308": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225308/Live/Italy-Serie-A-2017-2018-Cagliari-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Fri, 22-Dec-17, 19:45"
-    },
-    "1225259": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225259/Live/Italy-Serie-A-2017-2018-Crotone-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 19-Nov-17, 11:30"
-    },
-    "1225270": {
-        "home_team_id": 78,
-        "half_time_result": "0 : 1",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225270/Live/Italy-Serie-A-2017-2018-Cagliari-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 25-Nov-17, 19:45"
-    },
-    "1225277": {
-        "home_team_id": 86,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225277/Live/Italy-Serie-A-2017-2018-Udinese-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 26-Nov-17, 14:00"
-    },
-    "1225138": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225138/Live/Italy-Serie-A-2017-2018-Atalanta-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 20-Aug-17, 17:00"
-    },
-    "1225186": {
-        "home_team_id": 80,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225186/Live/Italy-Serie-A-2017-2018-AC-Milan-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225325": {
-        "home_team_id": 84,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225325/Live/Italy-Serie-A-2017-2018-Roma-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225344": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225344/Live/Italy-Serie-A-2017-2018-Atalanta-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Sun, 21-Jan-18, 11:30"
-    },
-    "1225202": {
-        "home_team_id": 77,
-        "half_time_result": "1 : 1",
-        "result": "6 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225202/Live/Italy-Serie-A-2017-2018-Lazio-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 01-Oct-17, 14:00"
-    },
-    "1225295": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225295/Live/Italy-Serie-A-2017-2018-Sassuolo-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sun, 10-Dec-17, 17:00"
-    },
-    "1225305": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225305/Live/Italy-Serie-A-2017-2018-Roma-Cagliari",
-        "away_team_id": 78,
-        "match_datetime": "Sat, 16-Dec-17, 19:45"
-    },
-    "1225217": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225217/Live/Italy-Serie-A-2017-2018-Sassuolo-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 15-Oct-17, 14:00"
-    },
-    "1225367": {
-        "home_team_id": 271,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225367/Live/Italy-Serie-A-2017-2018-Sampdoria-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sat, 03-Feb-18, 17:00"
-    },
-    "1225167": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225167/Live/Italy-Serie-A-2017-2018-Udinese-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 10-Sep-17, 14:00"
-    },
-    "1225232": {
-        "home_team_id": 73,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225232/Live/Italy-Serie-A-2017-2018-Fiorentina-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225175": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 1",
-        "result": "1 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225175/Live/Italy-Serie-A-2017-2018-Sassuolo-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sun, 17-Sep-17, 11:30"
-    },
-    "1225442": {
-        "home_team_id": 779,
-        "half_time_result": "3 : 0",
-        "result": "4 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225442/Live/Italy-Serie-A-2017-2018-Crotone-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sun, 11-Mar-18, 14:00"
-    },
-    "1225170": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 0",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225170/Live/Italy-Serie-A-2017-2018-Fiorentina-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sat, 16-Sep-17, 17:00"
-    },
-    "1225151": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225151/Live/Italy-Serie-A-2017-2018-Fiorentina-Sampdoria",
-        "away_team_id": 271,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225434": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225434/Live/Italy-Serie-A-2017-2018-Verona-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sat, 10-Mar-18, 19:45"
-    },
-    "1225172": {
-        "home_team_id": 80,
-        "half_time_result": "2 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225172/Live/Italy-Serie-A-2017-2018-AC-Milan-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 17-Sep-17, 14:00"
-    },
-    "1225257": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225257/Live/Italy-Serie-A-2017-2018-Sassuolo-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sun, 05-Nov-17, 19:45"
-    },
-    "1225448": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225448/Live/Italy-Serie-A-2017-2018-Juventus-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 11-Mar-18, 14:00"
-    },
-    "1225190": {
-        "home_team_id": 73,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225190/Live/Italy-Serie-A-2017-2018-Fiorentina-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 24-Sep-17, 19:45"
-    },
-    "1225154": {
-        "home_team_id": 276,
-        "half_time_result": "0 : 1",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225154/Live/Italy-Serie-A-2017-2018-Napoli-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225242": {
-        "home_team_id": 276,
-        "half_time_result": "2 : 1",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225242/Live/Italy-Serie-A-2017-2018-Napoli-Sassuolo",
-        "away_team_id": 2889,
-        "match_datetime": "Sun, 29-Oct-17, 14:00"
-    },
-    "1225328": {
-        "home_team_id": 84,
-        "half_time_result": "0 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225328/Live/Italy-Serie-A-2017-2018-Roma-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sat, 06-Jan-18, 17:00"
-    },
-    "1225185": {
-        "home_team_id": 77,
-        "half_time_result": "1 : 0",
-        "result": "1 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225185/Live/Italy-Serie-A-2017-2018-Lazio-Napoli",
-        "away_team_id": 276,
-        "match_datetime": "Wed, 20-Sep-17, 19:45"
-    },
-    "1225191": {
-        "home_team_id": 76,
-        "half_time_result": "0 : 2",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225191/Live/Italy-Serie-A-2017-2018-Verona-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 24-Sep-17, 14:00"
-    },
-    "1225430": {
-        "home_team_id": 71,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225430/Live/Italy-Serie-A-2017-2018-Bologna-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Sun, 11-Mar-18, 14:00"
-    },
-    "1225280": {
-        "home_team_id": 779,
-        "half_time_result": "0 : 1",
-        "result": "0 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225280/Live/Italy-Serie-A-2017-2018-Crotone-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Mon, 04-Dec-17, 18:00"
-    },
-    "1225424": {
-        "home_team_id": 276,
-        "half_time_result": "1 : 2",
-        "result": "2 : 4",
-        "match_link": "https://www.whoscored.com/Matches/1225424/Live/Italy-Serie-A-2017-2018-Napoli-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sat, 03-Mar-18, 19:45"
-    },
-    "1225312": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "4 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225312/Live/Italy-Serie-A-2017-2018-Lazio-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sat, 23-Dec-17, 11:30"
-    },
-    "1225422": {
-        "home_team_id": 77,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225422/Live/Italy-Serie-A-2017-2018-Lazio-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sat, 03-Mar-18, 17:00"
-    },
-    "1225210": {
-        "home_team_id": 779,
-        "half_time_result": "1 : 0",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225210/Live/Italy-Serie-A-2017-2018-Crotone-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sun, 15-Oct-17, 14:00"
-    },
-    "1225330": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225330/Live/Italy-Serie-A-2017-2018-AC-Milan-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sat, 06-Jan-18, 14:00"
-    },
-    "1225163": {
-        "home_team_id": 75,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225163/Live/Italy-Serie-A-2017-2018-Inter-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sun, 10-Sep-17, 11:30"
-    },
-    "1225291": {
-        "home_team_id": 87,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225291/Live/Italy-Serie-A-2017-2018-Juventus-Inter",
-        "away_team_id": 75,
-        "match_datetime": "Sat, 09-Dec-17, 19:45"
-    },
-    "1225386": {
-        "home_team_id": 300,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225386/Live/Italy-Serie-A-2017-2018-Atalanta-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 18-Feb-18, 17:00"
-    },
-    "1225375": {
-        "home_team_id": 276,
-        "half_time_result": "1 : 1",
-        "result": "4 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225375/Live/Italy-Serie-A-2017-2018-Napoli-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sat, 10-Feb-18, 19:45"
-    },
-    "1225266": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 1",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225266/Live/Italy-Serie-A-2017-2018-Torino-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sun, 19-Nov-17, 14:00"
-    },
-    "1225381": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "2 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225381/Live/Italy-Serie-A-2017-2018-Juventus-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Wed, 14-Mar-18, 17:00"
-    },
-    "1225322": {
-        "home_team_id": 73,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225322/Live/Italy-Serie-A-2017-2018-Fiorentina-AC-Milan",
-        "away_team_id": 80,
-        "match_datetime": "Sat, 30-Dec-17, 11:30"
-    },
-    "1225149": {
-        "home_team_id": 267,
-        "half_time_result": "1 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225149/Live/Italy-Serie-A-2017-2018-Chievo-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 27-Aug-17, 19:45"
-    },
-    "1225249": {
-        "home_team_id": 71,
-        "half_time_result": "2 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225249/Live/Italy-Serie-A-2017-2018-Bologna-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Sat, 04-Nov-17, 17:00"
-    },
-    "1225271": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 1",
-        "result": "2 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225271/Live/Italy-Serie-A-2017-2018-Chievo-SPAL-2013",
-        "away_team_id": 1502,
-        "match_datetime": "Sat, 25-Nov-17, 17:00"
-    },
-    "1225220": {
-        "home_team_id": 267,
-        "half_time_result": "2 : 1",
-        "result": "3 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225220/Live/Italy-Serie-A-2017-2018-Chievo-Verona",
-        "away_team_id": 76,
-        "match_datetime": "Sun, 22-Oct-17, 11:30"
-    },
-    "1225237": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225237/Live/Italy-Serie-A-2017-2018-Sassuolo-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225342": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225342/Live/Italy-Serie-A-2017-2018-Juventus-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Mon, 22-Jan-18, 19:45"
-    },
-    "1225289": {
-        "home_team_id": 267,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225289/Live/Italy-Serie-A-2017-2018-Chievo-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 10-Dec-17, 11:30"
-    },
-    "1225290": {
-        "home_team_id": 278,
-        "half_time_result": "1 : 1",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225290/Live/Italy-Serie-A-2017-2018-Genoa-Atalanta",
-        "away_team_id": 300,
-        "match_datetime": "Tue, 12-Dec-17, 18:00"
-    },
-    "1225236": {
-        "home_team_id": 84,
-        "half_time_result": "1 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225236/Live/Italy-Serie-A-2017-2018-Roma-Crotone",
-        "away_team_id": 779,
-        "match_datetime": "Wed, 25-Oct-17, 19:45"
-    },
-    "1225196": {
-        "home_team_id": 2889,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225196/Live/Italy-Serie-A-2017-2018-Sassuolo-Bologna",
-        "away_team_id": 71,
-        "match_datetime": "Sun, 24-Sep-17, 17:00"
-    },
-    "1225171": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 1",
-        "result": "2 : 3",
-        "match_link": "https://www.whoscored.com/Matches/1225171/Live/Italy-Serie-A-2017-2018-Genoa-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 17-Sep-17, 19:45"
+        "result": "0 : 1"
     },
     "1225159": {
-        "home_team_id": 1503,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
         "match_link": "https://www.whoscored.com/Matches/1225159/Live/Italy-Serie-A-2017-2018-Benevento-Torino",
         "away_team_id": 72,
-        "match_datetime": "Sun, 10-Sep-17, 17:00"
-    },
-    "1225241": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 1",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225241/Live/Italy-Serie-A-2017-2018-AC-Milan-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sat, 28-Oct-17, 17:00"
-    },
-    "1225357": {
-        "home_team_id": 278,
-        "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225357/Live/Italy-Serie-A-2017-2018-Genoa-Udinese",
-        "away_team_id": 86,
-        "match_datetime": "Sun, 28-Jan-18, 14:00"
-    },
-    "1225254": {
-        "home_team_id": 75,
-        "half_time_result": "0 : 0",
-        "result": "1 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225254/Live/Italy-Serie-A-2017-2018-Inter-Torino",
-        "away_team_id": 72,
-        "match_datetime": "Sun, 05-Nov-17, 11:30"
-    },
-    "1225203": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225203/Live/Italy-Serie-A-2017-2018-AC-Milan-Roma",
-        "away_team_id": 84,
-        "match_datetime": "Sun, 01-Oct-17, 17:00"
-    },
-    "1225238": {
         "home_team_id": 1503,
-        "half_time_result": "0 : 3",
-        "result": "1 : 5",
-        "match_link": "https://www.whoscored.com/Matches/1225238/Live/Italy-Serie-A-2017-2018-Benevento-Lazio",
-        "away_team_id": 77,
-        "match_datetime": "Sun, 29-Oct-17, 11:30"
-    },
-    "1225374": {
-        "home_team_id": 73,
+        "match_datetime": "Sun, 10-Sep-17, 17:00",
         "half_time_result": "0 : 0",
-        "result": "0 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225374/Live/Italy-Serie-A-2017-2018-Fiorentina-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Fri, 09-Feb-18, 19:45"
+        "result": "0 : 1"
     },
-    "1225318": {
-        "home_team_id": 300,
-        "half_time_result": "0 : 2",
-        "result": "1 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225318/Live/Italy-Serie-A-2017-2018-Atalanta-Cagliari",
+    "1225295": {
+        "match_link": "https://www.whoscored.com/Matches/1225295/Live/Italy-Serie-A-2017-2018-Sassuolo-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 10-Dec-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 1"
+    },
+    "1225378": {
+        "match_link": "https://www.whoscored.com/Matches/1225378/Live/Italy-Serie-A-2017-2018-Chievo-Cagliari",
         "away_team_id": 78,
-        "match_datetime": "Sat, 30-Dec-17, 14:00"
-    },
-    "1225372": {
         "home_team_id": 267,
+        "match_datetime": "Sat, 17-Feb-18, 17:00",
         "half_time_result": "0 : 0",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225372/Live/Italy-Serie-A-2017-2018-Chievo-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 11-Feb-18, 14:00"
-    },
-    "1225164": {
-        "home_team_id": 87,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225164/Live/Italy-Serie-A-2017-2018-Juventus-Chievo",
-        "away_team_id": 267,
-        "match_datetime": "Sat, 09-Sep-17, 17:00"
-    },
-    "1225198": {
-        "home_team_id": 300,
-        "half_time_result": "1 : 2",
-        "result": "2 : 2",
-        "match_link": "https://www.whoscored.com/Matches/1225198/Live/Italy-Serie-A-2017-2018-Atalanta-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Sun, 01-Oct-17, 19:45"
-    },
-    "1225341": {
-        "home_team_id": 271,
-        "half_time_result": "1 : 0",
-        "result": "3 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225341/Live/Italy-Serie-A-2017-2018-Sampdoria-Fiorentina",
-        "away_team_id": 73,
-        "match_datetime": "Sun, 21-Jan-18, 14:00"
+        "result": "2 : 1"
     },
     "1225359": {
-        "home_team_id": 75,
-        "half_time_result": "1 : 0",
-        "result": "1 : 1",
         "match_link": "https://www.whoscored.com/Matches/1225359/Live/Italy-Serie-A-2017-2018-Inter-Crotone",
         "away_team_id": 779,
-        "match_datetime": "Sat, 03-Feb-18, 19:45"
+        "home_team_id": 75,
+        "match_datetime": "Sat, 03-Feb-18, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225368": {
+        "match_link": "https://www.whoscored.com/Matches/1225368/Live/Italy-Serie-A-2017-2018-Crotone-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 779,
+        "match_datetime": "Sat, 10-Feb-18, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225322": {
+        "match_link": "https://www.whoscored.com/Matches/1225322/Live/Italy-Serie-A-2017-2018-Fiorentina-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 73,
+        "match_datetime": "Sat, 30-Dec-17, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225170": {
+        "match_link": "https://www.whoscored.com/Matches/1225170/Live/Italy-Serie-A-2017-2018-Fiorentina-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 73,
+        "match_datetime": "Sat, 16-Sep-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 1"
+    },
+    "1225285": {
+        "match_link": "https://www.whoscored.com/Matches/1225285/Live/Italy-Serie-A-2017-2018-Roma-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 84,
+        "match_datetime": "Fri, 01-Dec-17, 17:30",
+        "half_time_result": "2 : 0",
+        "result": "3 : 1"
+    },
+    "1225316": {
+        "match_link": "https://www.whoscored.com/Matches/1225316/Live/Italy-Serie-A-2017-2018-SPAL-2013-Torino",
+        "away_team_id": 72,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 23-Dec-17, 14:00",
+        "half_time_result": "1 : 2",
+        "result": "2 : 2"
+    },
+    "1225242": {
+        "match_link": "https://www.whoscored.com/Matches/1225242/Live/Italy-Serie-A-2017-2018-Napoli-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 29-Oct-17, 14:00",
+        "half_time_result": "2 : 1",
+        "result": "3 : 1"
+    },
+    "1225317": {
+        "match_link": "https://www.whoscored.com/Matches/1225317/Live/Italy-Serie-A-2017-2018-Udinese-Verona",
+        "away_team_id": 76,
+        "home_team_id": 86,
+        "match_datetime": "Sat, 23-Dec-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "4 : 0"
+    },
+    "1225454": {
+        "match_link": "https://www.whoscored.com/Matches/1225454/Live/Italy-Serie-A-2017-2018-Benevento-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 18-Mar-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225243": {
+        "match_link": "https://www.whoscored.com/Matches/1225243/Live/Italy-Serie-A-2017-2018-Roma-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 28-Oct-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225259": {
+        "match_link": "https://www.whoscored.com/Matches/1225259/Live/Italy-Serie-A-2017-2018-Crotone-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 19-Nov-17, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225338": {
+        "match_link": "https://www.whoscored.com/Matches/1225338/Live/Italy-Serie-A-2017-2018-Bologna-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225363": {
+        "match_link": "https://www.whoscored.com/Matches/1225363/Live/Italy-Serie-A-2017-2018-Benevento-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 04-Feb-18, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225172": {
+        "match_link": "https://www.whoscored.com/Matches/1225172/Live/Italy-Serie-A-2017-2018-AC-Milan-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 17-Sep-17, 14:00",
+        "half_time_result": "2 : 1",
+        "result": "2 : 1"
+    },
+    "1225375": {
+        "match_link": "https://www.whoscored.com/Matches/1225375/Live/Italy-Serie-A-2017-2018-Napoli-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 10-Feb-18, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "4 : 1"
+    },
+    "1225332": {
+        "match_link": "https://www.whoscored.com/Matches/1225332/Live/Italy-Serie-A-2017-2018-Fiorentina-Inter",
+        "away_team_id": 75,
+        "home_team_id": 73,
+        "match_datetime": "Fri, 05-Jan-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225196": {
+        "match_link": "https://www.whoscored.com/Matches/1225196/Live/Italy-Serie-A-2017-2018-Sassuolo-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 24-Sep-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225342": {
+        "match_link": "https://www.whoscored.com/Matches/1225342/Live/Italy-Serie-A-2017-2018-Juventus-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 87,
+        "match_datetime": "Mon, 22-Jan-18, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225303": {
+        "match_link": "https://www.whoscored.com/Matches/1225303/Live/Italy-Serie-A-2017-2018-Verona-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 17-Dec-17, 11:30",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225299": {
+        "match_link": "https://www.whoscored.com/Matches/1225299/Live/Italy-Serie-A-2017-2018-Benevento-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 17-Dec-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225267": {
+        "match_link": "https://www.whoscored.com/Matches/1225267/Live/Italy-Serie-A-2017-2018-Udinese-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 19-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225314": {
+        "match_link": "https://www.whoscored.com/Matches/1225314/Live/Italy-Serie-A-2017-2018-Napoli-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 23-Dec-17, 14:00",
+        "half_time_result": "3 : 2",
+        "result": "3 : 2"
+    },
+    "1225290": {
+        "match_link": "https://www.whoscored.com/Matches/1225290/Live/Italy-Serie-A-2017-2018-Genoa-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 278,
+        "match_datetime": "Tue, 12-Dec-17, 18:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225352": {
+        "match_link": "https://www.whoscored.com/Matches/1225352/Live/Italy-Serie-A-2017-2018-Fiorentina-Verona",
+        "away_team_id": 76,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 28-Jan-18, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "1 : 4"
+    },
+    "1225149": {
+        "match_link": "https://www.whoscored.com/Matches/1225149/Live/Italy-Serie-A-2017-2018-Chievo-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225356": {
+        "match_link": "https://www.whoscored.com/Matches/1225356/Live/Italy-Serie-A-2017-2018-Roma-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 84,
+        "match_datetime": "Sun, 28-Jan-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225195": {
+        "match_link": "https://www.whoscored.com/Matches/1225195/Live/Italy-Serie-A-2017-2018-Sampdoria-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 24-Sep-17, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225300": {
+        "match_link": "https://www.whoscored.com/Matches/1225300/Live/Italy-Serie-A-2017-2018-Bologna-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 17-Dec-17, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 3"
+    },
+    "1225206": {
+        "match_link": "https://www.whoscored.com/Matches/1225206/Live/Italy-Serie-A-2017-2018-Torino-Verona",
+        "away_team_id": 76,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 01-Oct-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "2 : 2"
+    },
+    "1225312": {
+        "match_link": "https://www.whoscored.com/Matches/1225312/Live/Italy-Serie-A-2017-2018-Lazio-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 77,
+        "match_datetime": "Sat, 23-Dec-17, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "4 : 0"
+    },
+    "1225256": {
+        "match_link": "https://www.whoscored.com/Matches/1225256/Live/Italy-Serie-A-2017-2018-Lazio-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 77,
+        "match_datetime": "Wed, 24-Jan-18, 17:30",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225344": {
+        "match_link": "https://www.whoscored.com/Matches/1225344/Live/Italy-Serie-A-2017-2018-Atalanta-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 21-Jan-18, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225376": {
+        "match_link": "https://www.whoscored.com/Matches/1225376/Live/Italy-Serie-A-2017-2018-SPAL-2013-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 10-Feb-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 4"
+    },
+    "1225298": {
+        "match_link": "https://www.whoscored.com/Matches/1225298/Live/Italy-Serie-A-2017-2018-Atalanta-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 17-Dec-17, 19:45",
+        "half_time_result": "2 : 2",
+        "result": "3 : 3"
+    },
+    "1225293": {
+        "match_link": "https://www.whoscored.com/Matches/1225293/Live/Italy-Serie-A-2017-2018-AC-Milan-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 10-Dec-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225160": {
+        "match_link": "https://www.whoscored.com/Matches/1225160/Live/Italy-Serie-A-2017-2018-Bologna-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 10-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 3"
+    },
+    "1225357": {
+        "match_link": "https://www.whoscored.com/Matches/1225357/Live/Italy-Serie-A-2017-2018-Genoa-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 278,
+        "match_datetime": "Sun, 28-Jan-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225146": {
+        "match_link": "https://www.whoscored.com/Matches/1225146/Live/Italy-Serie-A-2017-2018-Sassuolo-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225220": {
+        "match_link": "https://www.whoscored.com/Matches/1225220/Live/Italy-Serie-A-2017-2018-Chievo-Verona",
+        "away_team_id": 76,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 22-Oct-17, 11:30",
+        "half_time_result": "2 : 1",
+        "result": "3 : 2"
+    },
+    "1225392": {
+        "match_link": "https://www.whoscored.com/Matches/1225392/Live/Italy-Serie-A-2017-2018-Torino-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 18-Feb-18, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225328": {
+        "match_link": "https://www.whoscored.com/Matches/1225328/Live/Italy-Serie-A-2017-2018-Roma-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 06-Jan-18, 17:00",
+        "half_time_result": "0 : 2",
+        "result": "1 : 2"
+    },
+    "1225387": {
+        "match_link": "https://www.whoscored.com/Matches/1225387/Live/Italy-Serie-A-2017-2018-Sassuolo-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 25-Feb-18, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 3"
+    },
+    "1225330": {
+        "match_link": "https://www.whoscored.com/Matches/1225330/Live/Italy-Serie-A-2017-2018-AC-Milan-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 80,
+        "match_datetime": "Sat, 06-Jan-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225269": {
+        "match_link": "https://www.whoscored.com/Matches/1225269/Live/Italy-Serie-A-2017-2018-Bologna-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 71,
+        "match_datetime": "Sat, 25-Nov-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225380": {
+        "match_link": "https://www.whoscored.com/Matches/1225380/Live/Italy-Serie-A-2017-2018-Napoli-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 18-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225374": {
+        "match_link": "https://www.whoscored.com/Matches/1225374/Live/Italy-Serie-A-2017-2018-Fiorentina-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 73,
+        "match_datetime": "Fri, 09-Feb-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225213": {
+        "match_link": "https://www.whoscored.com/Matches/1225213/Live/Italy-Serie-A-2017-2018-Inter-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 15-Oct-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "3 : 2"
+    },
+    "1225280": {
+        "match_link": "https://www.whoscored.com/Matches/1225280/Live/Italy-Serie-A-2017-2018-Crotone-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 779,
+        "match_datetime": "Mon, 04-Dec-17, 18:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 3"
+    },
+    "1225361": {
+        "match_link": "https://www.whoscored.com/Matches/1225361/Live/Italy-Serie-A-2017-2018-Lazio-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 77,
+        "match_datetime": "Mon, 05-Feb-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225232": {
+        "match_link": "https://www.whoscored.com/Matches/1225232/Live/Italy-Serie-A-2017-2018-Fiorentina-Torino",
+        "away_team_id": 72,
+        "home_team_id": 73,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225444": {
+        "match_link": "https://www.whoscored.com/Matches/1225444/Live/Italy-Serie-A-2017-2018-Sassuolo-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 11-Mar-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225198": {
+        "match_link": "https://www.whoscored.com/Matches/1225198/Live/Italy-Serie-A-2017-2018-Atalanta-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 01-Oct-17, 19:45",
+        "half_time_result": "1 : 2",
+        "result": "2 : 2"
+    },
+    "1225397": {
+        "match_link": "https://www.whoscored.com/Matches/1225397/Live/Italy-Serie-A-2017-2018-Sampdoria-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 25-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225233": {
+        "match_link": "https://www.whoscored.com/Matches/1225233/Live/Italy-Serie-A-2017-2018-Genoa-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 278,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "1 : 2",
+        "result": "2 : 3"
+    },
+    "1225362": {
+        "match_link": "https://www.whoscored.com/Matches/1225362/Live/Italy-Serie-A-2017-2018-Udinese-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 04-Feb-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "1 : 1"
+    },
+    "1225372": {
+        "match_link": "https://www.whoscored.com/Matches/1225372/Live/Italy-Serie-A-2017-2018-Chievo-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 11-Feb-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225163": {
+        "match_link": "https://www.whoscored.com/Matches/1225163/Live/Italy-Serie-A-2017-2018-Inter-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 10-Sep-17, 11:30",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225247": {
+        "match_link": "https://www.whoscored.com/Matches/1225247/Live/Italy-Serie-A-2017-2018-Udinese-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 29-Oct-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225210": {
+        "match_link": "https://www.whoscored.com/Matches/1225210/Live/Italy-Serie-A-2017-2018-Crotone-Torino",
+        "away_team_id": 72,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 15-Oct-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 2"
+    },
+    "1225143": {
+        "match_link": "https://www.whoscored.com/Matches/1225143/Live/Italy-Serie-A-2017-2018-Juventus-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 19-Aug-17, 17:00",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225241": {
+        "match_link": "https://www.whoscored.com/Matches/1225241/Live/Italy-Serie-A-2017-2018-AC-Milan-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 80,
+        "match_datetime": "Sat, 28-Oct-17, 17:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225253": {
+        "match_link": "https://www.whoscored.com/Matches/1225253/Live/Italy-Serie-A-2017-2018-Genoa-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 04-Nov-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225239": {
+        "match_link": "https://www.whoscored.com/Matches/1225239/Live/Italy-Serie-A-2017-2018-Crotone-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 29-Oct-17, 14:00",
+        "half_time_result": "2 : 1",
+        "result": "2 : 1"
+    },
+    "1225224": {
+        "match_link": "https://www.whoscored.com/Matches/1225224/Live/Italy-Serie-A-2017-2018-Sampdoria-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 271,
+        "match_datetime": "Sat, 21-Oct-17, 17:00",
+        "half_time_result": "3 : 0",
+        "result": "5 : 0"
+    },
+    "1225292": {
+        "match_link": "https://www.whoscored.com/Matches/1225292/Live/Italy-Serie-A-2017-2018-Lazio-Torino",
+        "away_team_id": 72,
+        "home_team_id": 77,
+        "match_datetime": "Mon, 11-Dec-17, 20:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 3"
+    },
+    "1225219": {
+        "match_link": "https://www.whoscored.com/Matches/1225219/Live/Italy-Serie-A-2017-2018-Benevento-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 22-Oct-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 3"
+    },
+    "1225273": {
+        "match_link": "https://www.whoscored.com/Matches/1225273/Live/Italy-Serie-A-2017-2018-Juventus-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 87,
+        "match_datetime": "Sun, 26-Nov-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "3 : 0"
+    },
+    "1225263": {
+        "match_link": "https://www.whoscored.com/Matches/1225263/Live/Italy-Serie-A-2017-2018-Roma-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 18-Nov-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 1"
+    },
+    "1225386": {
+        "match_link": "https://www.whoscored.com/Matches/1225386/Live/Italy-Serie-A-2017-2018-Atalanta-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 18-Feb-18, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225183": {
+        "match_link": "https://www.whoscored.com/Matches/1225183/Live/Italy-Serie-A-2017-2018-Verona-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 76,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225438": {
+        "match_link": "https://www.whoscored.com/Matches/1225438/Live/Italy-Serie-A-2017-2018-Genoa-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 278,
+        "match_datetime": "Sun, 11-Mar-18, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225176": {
+        "match_link": "https://www.whoscored.com/Matches/1225176/Live/Italy-Serie-A-2017-2018-SPAL-2013-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 17-Sep-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225181": {
+        "match_link": "https://www.whoscored.com/Matches/1225181/Live/Italy-Serie-A-2017-2018-Cagliari-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 78,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225304": {
+        "match_link": "https://www.whoscored.com/Matches/1225304/Live/Italy-Serie-A-2017-2018-Inter-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 75,
+        "match_datetime": "Sat, 16-Dec-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 3"
+    },
+    "1225319": {
+        "match_link": "https://www.whoscored.com/Matches/1225319/Live/Italy-Serie-A-2017-2018-Benevento-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 1503,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225184": {
+        "match_link": "https://www.whoscored.com/Matches/1225184/Live/Italy-Serie-A-2017-2018-Juventus-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 87,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225244": {
+        "match_link": "https://www.whoscored.com/Matches/1225244/Live/Italy-Serie-A-2017-2018-Sampdoria-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 29-Oct-17, 14:00",
+        "half_time_result": "3 : 1",
+        "result": "4 : 1"
+    },
+    "1225250": {
+        "match_link": "https://www.whoscored.com/Matches/1225250/Live/Italy-Serie-A-2017-2018-Cagliari-Verona",
+        "away_team_id": 76,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 05-Nov-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225207": {
+        "match_link": "https://www.whoscored.com/Matches/1225207/Live/Italy-Serie-A-2017-2018-Udinese-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 86,
+        "match_datetime": "Sat, 30-Sep-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "4 : 0"
+    },
+    "1225296": {
+        "match_link": "https://www.whoscored.com/Matches/1225296/Live/Italy-Serie-A-2017-2018-SPAL-2013-Verona",
+        "away_team_id": 76,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 10-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 2"
+    },
+    "1225364": {
+        "match_link": "https://www.whoscored.com/Matches/1225364/Live/Italy-Serie-A-2017-2018-Verona-Roma",
+        "away_team_id": 84,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 04-Feb-18, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225151": {
+        "match_link": "https://www.whoscored.com/Matches/1225151/Live/Italy-Serie-A-2017-2018-Fiorentina-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "1 : 2"
+    },
+    "1225270": {
+        "match_link": "https://www.whoscored.com/Matches/1225270/Live/Italy-Serie-A-2017-2018-Cagliari-Inter",
+        "away_team_id": 75,
+        "home_team_id": 78,
+        "match_datetime": "Sat, 25-Nov-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "1 : 3"
+    },
+    "1225167": {
+        "match_link": "https://www.whoscored.com/Matches/1225167/Live/Italy-Serie-A-2017-2018-Udinese-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 10-Sep-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225307": {
+        "match_link": "https://www.whoscored.com/Matches/1225307/Live/Italy-Serie-A-2017-2018-Torino-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 72,
+        "match_datetime": "Sat, 16-Dec-17, 17:00",
+        "half_time_result": "0 : 3",
+        "result": "1 : 3"
+    },
+    "1225351": {
+        "match_link": "https://www.whoscored.com/Matches/1225351/Live/Italy-Serie-A-2017-2018-Crotone-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 28-Jan-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225360": {
+        "match_link": "https://www.whoscored.com/Matches/1225360/Live/Italy-Serie-A-2017-2018-Bologna-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 04-Feb-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225214": {
+        "match_link": "https://www.whoscored.com/Matches/1225214/Live/Italy-Serie-A-2017-2018-Juventus-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 14-Oct-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 2"
+    },
+    "1225248": {
+        "match_link": "https://www.whoscored.com/Matches/1225248/Live/Italy-Serie-A-2017-2018-Atalanta-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 05-Nov-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225225": {
+        "match_link": "https://www.whoscored.com/Matches/1225225/Live/Italy-Serie-A-2017-2018-SPAL-2013-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 22-Oct-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225145": {
+        "match_link": "https://www.whoscored.com/Matches/1225145/Live/Italy-Serie-A-2017-2018-Sampdoria-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
     },
     "1225275": {
-        "home_team_id": 80,
-        "half_time_result": "0 : 0",
-        "result": "0 : 0",
         "match_link": "https://www.whoscored.com/Matches/1225275/Live/Italy-Serie-A-2017-2018-AC-Milan-Torino",
         "away_team_id": 72,
-        "match_datetime": "Sun, 26-Nov-17, 14:00"
+        "home_team_id": 80,
+        "match_datetime": "Sun, 26-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225156": {
+        "match_link": "https://www.whoscored.com/Matches/1225156/Live/Italy-Serie-A-2017-2018-SPAL-2013-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "3 : 2"
+    },
+    "1225383": {
+        "match_link": "https://www.whoscored.com/Matches/1225383/Live/Italy-Serie-A-2017-2018-Fiorentina-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 25-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225162": {
+        "match_link": "https://www.whoscored.com/Matches/1225162/Live/Italy-Serie-A-2017-2018-Verona-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 10-Sep-17, 14:00",
+        "half_time_result": "0 : 3",
+        "result": "0 : 5"
+    },
+    "1225395": {
+        "match_link": "https://www.whoscored.com/Matches/1225395/Live/Italy-Serie-A-2017-2018-Verona-Torino",
+        "away_team_id": 72,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 25-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225396": {
+        "match_link": "https://www.whoscored.com/Matches/1225396/Live/Italy-Serie-A-2017-2018-AC-Milan-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 18-Feb-18, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225310": {
+        "match_link": "https://www.whoscored.com/Matches/1225310/Live/Italy-Serie-A-2017-2018-Genoa-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 23-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225251": {
+        "match_link": "https://www.whoscored.com/Matches/1225251/Live/Italy-Serie-A-2017-2018-Chievo-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 05-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225297": {
+        "match_link": "https://www.whoscored.com/Matches/1225297/Live/Italy-Serie-A-2017-2018-Udinese-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 10-Dec-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "2 : 0"
+    },
+    "1225168": {
+        "match_link": "https://www.whoscored.com/Matches/1225168/Live/Italy-Serie-A-2017-2018-Chievo-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 17-Sep-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225205": {
+        "match_link": "https://www.whoscored.com/Matches/1225205/Live/Italy-Serie-A-2017-2018-SPAL-2013-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 01-Oct-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225234": {
+        "match_link": "https://www.whoscored.com/Matches/1225234/Live/Italy-Serie-A-2017-2018-Inter-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 75,
+        "match_datetime": "Tue, 24-Oct-17, 19:45",
+        "half_time_result": "2 : 0",
+        "result": "3 : 2"
+    },
+    "1225153": {
+        "match_link": "https://www.whoscored.com/Matches/1225153/Live/Italy-Serie-A-2017-2018-AC-Milan-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225366": {
+        "match_link": "https://www.whoscored.com/Matches/1225366/Live/Italy-Serie-A-2017-2018-Cagliari-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 04-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225331": {
+        "match_link": "https://www.whoscored.com/Matches/1225331/Live/Italy-Serie-A-2017-2018-Napoli-Verona",
+        "away_team_id": 76,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 06-Jan-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225175": {
+        "match_link": "https://www.whoscored.com/Matches/1225175/Live/Italy-Serie-A-2017-2018-Sassuolo-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 17-Sep-17, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "1 : 3"
+    },
+    "1225436": {
+        "match_link": "https://www.whoscored.com/Matches/1225436/Live/Italy-Serie-A-2017-2018-Cagliari-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 11-Mar-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 2"
+    },
+    "1225318": {
+        "match_link": "https://www.whoscored.com/Matches/1225318/Live/Italy-Serie-A-2017-2018-Atalanta-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 300,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "1 : 2"
+    },
+    "1225204": {
+        "match_link": "https://www.whoscored.com/Matches/1225204/Live/Italy-Serie-A-2017-2018-Napoli-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 01-Oct-17, 11:30",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225339": {
+        "match_link": "https://www.whoscored.com/Matches/1225339/Live/Italy-Serie-A-2017-2018-Lazio-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "2 : 1",
+        "result": "5 : 1"
+    },
+    "1225282": {
+        "match_link": "https://www.whoscored.com/Matches/1225282/Live/Italy-Serie-A-2017-2018-Verona-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 76,
+        "match_datetime": "Mon, 04-Dec-17, 20:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225337": {
+        "match_link": "https://www.whoscored.com/Matches/1225337/Live/Italy-Serie-A-2017-2018-Chievo-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 267,
+        "match_datetime": "Fri, 05-Jan-18, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225223": {
+        "match_link": "https://www.whoscored.com/Matches/1225223/Live/Italy-Serie-A-2017-2018-Napoli-Inter",
+        "away_team_id": 75,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 21-Oct-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225281": {
+        "match_link": "https://www.whoscored.com/Matches/1225281/Live/Italy-Serie-A-2017-2018-Fiorentina-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 03-Dec-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225142": {
+        "match_link": "https://www.whoscored.com/Matches/1225142/Live/Italy-Serie-A-2017-2018-Inter-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225178": {
+        "match_link": "https://www.whoscored.com/Matches/1225178/Live/Italy-Serie-A-2017-2018-Atalanta-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 300,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "3 : 0",
+        "result": "5 : 1"
+    },
+    "1225240": {
+        "match_link": "https://www.whoscored.com/Matches/1225240/Live/Italy-Serie-A-2017-2018-Verona-Inter",
+        "away_team_id": 75,
+        "home_team_id": 76,
+        "match_datetime": "Mon, 30-Oct-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "1 : 2"
+    },
+    "1225221": {
+        "match_link": "https://www.whoscored.com/Matches/1225221/Live/Italy-Serie-A-2017-2018-Lazio-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 22-Oct-17, 19:45",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225185": {
+        "match_link": "https://www.whoscored.com/Matches/1225185/Live/Italy-Serie-A-2017-2018-Lazio-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 77,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 4"
+    },
+    "1225174": {
+        "match_link": "https://www.whoscored.com/Matches/1225174/Live/Italy-Serie-A-2017-2018-Roma-Verona",
+        "away_team_id": 76,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 16-Sep-17, 19:45",
+        "half_time_result": "2 : 0",
+        "result": "3 : 0"
+    },
+    "1225230": {
+        "match_link": "https://www.whoscored.com/Matches/1225230/Live/Italy-Serie-A-2017-2018-Cagliari-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 78,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
     },
     "1225200": {
-        "home_team_id": 267,
-        "half_time_result": "1 : 1",
-        "result": "2 : 1",
         "match_link": "https://www.whoscored.com/Matches/1225200/Live/Italy-Serie-A-2017-2018-Chievo-Fiorentina",
         "away_team_id": 73,
-        "match_datetime": "Sun, 01-Oct-17, 14:00"
+        "home_team_id": 267,
+        "match_datetime": "Sun, 01-Oct-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
     },
-    "1225245": {
-        "home_team_id": 1502,
+    "1225389": {
+        "match_link": "https://www.whoscored.com/Matches/1225389/Live/Italy-Serie-A-2017-2018-Roma-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 84,
+        "match_datetime": "Sun, 25-Feb-18, 19:45",
         "half_time_result": "0 : 0",
-        "result": "1 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225245/Live/Italy-Serie-A-2017-2018-SPAL-2013-Genoa",
-        "away_team_id": 278,
-        "match_datetime": "Sun, 29-Oct-17, 14:00"
+        "result": "0 : 2"
     },
-    "1225284": {
-        "home_team_id": 276,
+    "1225348": {
+        "match_link": "https://www.whoscored.com/Matches/1225348/Live/Italy-Serie-A-2017-2018-Sassuolo-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 2889,
+        "match_datetime": "Sat, 27-Jan-18, 17:00",
         "half_time_result": "0 : 1",
-        "result": "0 : 1",
-        "match_link": "https://www.whoscored.com/Matches/1225284/Live/Italy-Serie-A-2017-2018-Napoli-Juventus",
-        "away_team_id": 87,
-        "match_datetime": "Fri, 01-Dec-17, 19:45"
+        "result": "0 : 3"
     },
-    "1225157": {
-        "home_team_id": 72,
-        "half_time_result": "1 : 0",
-        "result": "3 : 0",
-        "match_link": "https://www.whoscored.com/Matches/1225157/Live/Italy-Serie-A-2017-2018-Torino-Sassuolo",
+    "1225323": {
+        "match_link": "https://www.whoscored.com/Matches/1225323/Live/Italy-Serie-A-2017-2018-Verona-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 76,
+        "match_datetime": "Sat, 30-Dec-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "1 : 3"
+    },
+    "1225305": {
+        "match_link": "https://www.whoscored.com/Matches/1225305/Live/Italy-Serie-A-2017-2018-Roma-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 16-Dec-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225192": {
+        "match_link": "https://www.whoscored.com/Matches/1225192/Live/Italy-Serie-A-2017-2018-Inter-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 24-Sep-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225442": {
+        "match_link": "https://www.whoscored.com/Matches/1225442/Live/Italy-Serie-A-2017-2018-Crotone-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 11-Mar-18, 14:00",
+        "half_time_result": "3 : 0",
+        "result": "4 : 1"
+    },
+    "1225391": {
+        "match_link": "https://www.whoscored.com/Matches/1225391/Live/Italy-Serie-A-2017-2018-Cagliari-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 78,
+        "match_datetime": "Mon, 26-Feb-18, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "0 : 5"
+    },
+    "1225215": {
+        "match_link": "https://www.whoscored.com/Matches/1225215/Live/Italy-Serie-A-2017-2018-Roma-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 14-Oct-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225152": {
+        "match_link": "https://www.whoscored.com/Matches/1225152/Live/Italy-Serie-A-2017-2018-Genoa-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 26-Aug-17, 17:00",
+        "half_time_result": "2 : 2",
+        "result": "2 : 4"
+    },
+    "1225199": {
+        "match_link": "https://www.whoscored.com/Matches/1225199/Live/Italy-Serie-A-2017-2018-Benevento-Inter",
+        "away_team_id": 75,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 01-Oct-17, 14:00",
+        "half_time_result": "1 : 2",
+        "result": "1 : 2"
+    },
+    "1225353": {
+        "match_link": "https://www.whoscored.com/Matches/1225353/Live/Italy-Serie-A-2017-2018-SPAL-2013-Inter",
+        "away_team_id": 75,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 28-Jan-18, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225235": {
+        "match_link": "https://www.whoscored.com/Matches/1225235/Live/Italy-Serie-A-2017-2018-Juventus-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 87,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "2 : 1",
+        "result": "4 : 1"
+    },
+    "1225379": {
+        "match_link": "https://www.whoscored.com/Matches/1225379/Live/Italy-Serie-A-2017-2018-Bologna-Sassuolo",
         "away_team_id": 2889,
-        "match_datetime": "Sun, 27-Aug-17, 17:00"
+        "home_team_id": 71,
+        "match_datetime": "Sun, 18-Feb-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225222": {
+        "match_link": "https://www.whoscored.com/Matches/1225222/Live/Italy-Serie-A-2017-2018-AC-Milan-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 22-Oct-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225308": {
+        "match_link": "https://www.whoscored.com/Matches/1225308/Live/Italy-Serie-A-2017-2018-Cagliari-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 78,
+        "match_datetime": "Fri, 22-Dec-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225336": {
+        "match_link": "https://www.whoscored.com/Matches/1225336/Live/Italy-Serie-A-2017-2018-Genoa-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 06-Jan-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225264": {
+        "match_link": "https://www.whoscored.com/Matches/1225264/Live/Italy-Serie-A-2017-2018-Sampdoria-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 19-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "3 : 2"
+    },
+    "1225369": {
+        "match_link": "https://www.whoscored.com/Matches/1225369/Live/Italy-Serie-A-2017-2018-Roma-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 84,
+        "match_datetime": "Sun, 11-Feb-18, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "5 : 2"
+    },
+    "1225236": {
+        "match_link": "https://www.whoscored.com/Matches/1225236/Live/Italy-Serie-A-2017-2018-Roma-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 84,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225139": {
+        "match_link": "https://www.whoscored.com/Matches/1225139/Live/Italy-Serie-A-2017-2018-Bologna-Torino",
+        "away_team_id": 72,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225249": {
+        "match_link": "https://www.whoscored.com/Matches/1225249/Live/Italy-Serie-A-2017-2018-Bologna-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 71,
+        "match_datetime": "Sat, 04-Nov-17, 17:00",
+        "half_time_result": "2 : 1",
+        "result": "2 : 3"
+    },
+    "1225155": {
+        "match_link": "https://www.whoscored.com/Matches/1225155/Live/Italy-Serie-A-2017-2018-Roma-Inter",
+        "away_team_id": 75,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 26-Aug-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 3"
+    },
+    "1225274": {
+        "match_link": "https://www.whoscored.com/Matches/1225274/Live/Italy-Serie-A-2017-2018-Lazio-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 26-Nov-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225434": {
+        "match_link": "https://www.whoscored.com/Matches/1225434/Live/Italy-Serie-A-2017-2018-Verona-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 76,
+        "match_datetime": "Sat, 10-Mar-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225464": {
+        "match_link": "https://www.whoscored.com/Matches/1225464/Live/Italy-Serie-A-2017-2018-SPAL-2013-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 17-Mar-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225325": {
+        "match_link": "https://www.whoscored.com/Matches/1225325/Live/Italy-Serie-A-2017-2018-Roma-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225452": {
+        "match_link": "https://www.whoscored.com/Matches/1225452/Live/Italy-Serie-A-2017-2018-Lazio-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 18-Mar-18, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225187": {
+        "match_link": "https://www.whoscored.com/Matches/1225187/Live/Italy-Serie-A-2017-2018-Udinese-Torino",
+        "away_team_id": 72,
+        "home_team_id": 86,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "2 : 3"
+    },
+    "1225346": {
+        "match_link": "https://www.whoscored.com/Matches/1225346/Live/Italy-Serie-A-2017-2018-Udinese-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225283": {
+        "match_link": "https://www.whoscored.com/Matches/1225283/Live/Italy-Serie-A-2017-2018-Inter-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 03-Dec-17, 14:00",
+        "half_time_result": "2 : 0",
+        "result": "5 : 0"
+    },
+    "1225246": {
+        "match_link": "https://www.whoscored.com/Matches/1225246/Live/Italy-Serie-A-2017-2018-Torino-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 29-Oct-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225217": {
+        "match_link": "https://www.whoscored.com/Matches/1225217/Live/Italy-Serie-A-2017-2018-Sassuolo-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 15-Oct-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225226": {
+        "match_link": "https://www.whoscored.com/Matches/1225226/Live/Italy-Serie-A-2017-2018-Torino-Roma",
+        "away_team_id": 84,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 22-Oct-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225334": {
+        "match_link": "https://www.whoscored.com/Matches/1225334/Live/Italy-Serie-A-2017-2018-SPAL-2013-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 06-Jan-18, 14:00",
+        "half_time_result": "2 : 4",
+        "result": "2 : 5"
+    },
+    "1225340": {
+        "match_link": "https://www.whoscored.com/Matches/1225340/Live/Italy-Serie-A-2017-2018-Verona-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 3"
+    },
+    "1225266": {
+        "match_link": "https://www.whoscored.com/Matches/1225266/Live/Italy-Serie-A-2017-2018-Torino-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 19-Nov-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225466": {
+        "match_link": "https://www.whoscored.com/Matches/1225466/Live/Italy-Serie-A-2017-2018-Crotone-Roma",
+        "away_team_id": 84,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 18-Mar-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225370": {
+        "match_link": "https://www.whoscored.com/Matches/1225370/Live/Italy-Serie-A-2017-2018-Inter-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 11-Feb-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225381": {
+        "match_link": "https://www.whoscored.com/Matches/1225381/Live/Italy-Serie-A-2017-2018-Juventus-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 87,
+        "match_datetime": "Wed, 14-Mar-18, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225468": {
+        "match_link": "https://www.whoscored.com/Matches/1225468/Live/Italy-Serie-A-2017-2018-Udinese-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 86,
+        "match_datetime": "Sat, 17-Mar-18, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225238": {
+        "match_link": "https://www.whoscored.com/Matches/1225238/Live/Italy-Serie-A-2017-2018-Benevento-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 29-Oct-17, 11:30",
+        "half_time_result": "0 : 3",
+        "result": "1 : 5"
+    },
+    "1225182": {
+        "match_link": "https://www.whoscored.com/Matches/1225182/Live/Italy-Serie-A-2017-2018-Genoa-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 278,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225254": {
+        "match_link": "https://www.whoscored.com/Matches/1225254/Live/Italy-Serie-A-2017-2018-Inter-Torino",
+        "away_team_id": 72,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 05-Nov-17, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225460": {
+        "match_link": "https://www.whoscored.com/Matches/1225460/Live/Italy-Serie-A-2017-2018-Napoli-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 18-Mar-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225278": {
+        "match_link": "https://www.whoscored.com/Matches/1225278/Live/Italy-Serie-A-2017-2018-Benevento-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 03-Dec-17, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "2 : 2"
+    },
+    "1225311": {
+        "match_link": "https://www.whoscored.com/Matches/1225311/Live/Italy-Serie-A-2017-2018-Juventus-Roma",
+        "away_team_id": 84,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 23-Dec-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225321": {
+        "match_link": "https://www.whoscored.com/Matches/1225321/Live/Italy-Serie-A-2017-2018-Crotone-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 779,
+        "match_datetime": "Fri, 29-Dec-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225258": {
+        "match_link": "https://www.whoscored.com/Matches/1225258/Live/Italy-Serie-A-2017-2018-Benevento-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 19-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225190": {
+        "match_link": "https://www.whoscored.com/Matches/1225190/Live/Italy-Serie-A-2017-2018-Fiorentina-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 24-Sep-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225158": {
+        "match_link": "https://www.whoscored.com/Matches/1225158/Live/Italy-Serie-A-2017-2018-Atalanta-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 10-Sep-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 1"
+    },
+    "1225287": {
+        "match_link": "https://www.whoscored.com/Matches/1225287/Live/Italy-Serie-A-2017-2018-Torino-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 72,
+        "match_datetime": "Sat, 02-Dec-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225173": {
+        "match_link": "https://www.whoscored.com/Matches/1225173/Live/Italy-Serie-A-2017-2018-Napoli-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 17-Sep-17, 14:00",
+        "half_time_result": "4 : 0",
+        "result": "6 : 0"
+    },
+    "1225446": {
+        "match_link": "https://www.whoscored.com/Matches/1225446/Live/Italy-Serie-A-2017-2018-Roma-Torino",
+        "away_team_id": 72,
+        "home_team_id": 84,
+        "match_datetime": "Fri, 09-Mar-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "3 : 0"
+    },
+    "1225138": {
+        "match_link": "https://www.whoscored.com/Matches/1225138/Live/Italy-Serie-A-2017-2018-Atalanta-Roma",
+        "away_team_id": 84,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 20-Aug-17, 17:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225272": {
+        "match_link": "https://www.whoscored.com/Matches/1225272/Live/Italy-Serie-A-2017-2018-Genoa-Roma",
+        "away_team_id": 84,
+        "home_team_id": 278,
+        "match_datetime": "Sun, 26-Nov-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 1"
+    },
+    "1225193": {
+        "match_link": "https://www.whoscored.com/Matches/1225193/Live/Italy-Serie-A-2017-2018-Juventus-Torino",
+        "away_team_id": 72,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 23-Sep-17, 19:45",
+        "half_time_result": "2 : 0",
+        "result": "4 : 0"
+    },
+    "1225373": {
+        "match_link": "https://www.whoscored.com/Matches/1225373/Live/Italy-Serie-A-2017-2018-Sampdoria-Verona",
+        "away_team_id": 76,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 11-Feb-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225171": {
+        "match_link": "https://www.whoscored.com/Matches/1225171/Live/Italy-Serie-A-2017-2018-Genoa-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 278,
+        "match_datetime": "Sun, 17-Sep-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "2 : 3"
+    },
+    "1225393": {
+        "match_link": "https://www.whoscored.com/Matches/1225393/Live/Italy-Serie-A-2017-2018-Crotone-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 25-Feb-18, 11:30",
+        "half_time_result": "0 : 1",
+        "result": "2 : 3"
+    },
+    "1225277": {
+        "match_link": "https://www.whoscored.com/Matches/1225277/Live/Italy-Serie-A-2017-2018-Udinese-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 26-Nov-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225208": {
+        "match_link": "https://www.whoscored.com/Matches/1225208/Live/Italy-Serie-A-2017-2018-Bologna-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 15-Oct-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225347": {
+        "match_link": "https://www.whoscored.com/Matches/1225347/Live/Italy-Serie-A-2017-2018-Sassuolo-Torino",
+        "away_team_id": 72,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "1 : 1"
+    },
+    "1225169": {
+        "match_link": "https://www.whoscored.com/Matches/1225169/Live/Italy-Serie-A-2017-2018-Crotone-Inter",
+        "away_team_id": 75,
+        "home_team_id": 779,
+        "match_datetime": "Sat, 16-Sep-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225377": {
+        "match_link": "https://www.whoscored.com/Matches/1225377/Live/Italy-Serie-A-2017-2018-Torino-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 11-Feb-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225197": {
+        "match_link": "https://www.whoscored.com/Matches/1225197/Live/Italy-Serie-A-2017-2018-SPAL-2013-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 23-Sep-17, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 3"
+    },
+    "1225341": {
+        "match_link": "https://www.whoscored.com/Matches/1225341/Live/Italy-Serie-A-2017-2018-Sampdoria-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 21-Jan-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "3 : 1"
+    },
+    "1225424": {
+        "match_link": "https://www.whoscored.com/Matches/1225424/Live/Italy-Serie-A-2017-2018-Napoli-Roma",
+        "away_team_id": 84,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 03-Mar-18, 19:45",
+        "half_time_result": "1 : 2",
+        "result": "2 : 4"
+    },
+    "1225231": {
+        "match_link": "https://www.whoscored.com/Matches/1225231/Live/Italy-Serie-A-2017-2018-Chievo-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 267,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "1 : 4"
+    },
+    "1225400": {
+        "match_link": "https://www.whoscored.com/Matches/1225400/Live/Italy-Serie-A-2017-2018-SPAL-2013-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 1502,
+        "match_datetime": "Sat, 03-Mar-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225202": {
+        "match_link": "https://www.whoscored.com/Matches/1225202/Live/Italy-Serie-A-2017-2018-Lazio-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 01-Oct-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "6 : 1"
+    },
+    "1225268": {
+        "match_link": "https://www.whoscored.com/Matches/1225268/Live/Italy-Serie-A-2017-2018-Atalanta-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 300,
+        "match_datetime": "Mon, 27-Nov-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225456": {
+        "match_link": "https://www.whoscored.com/Matches/1225456/Live/Italy-Serie-A-2017-2018-AC-Milan-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 18-Mar-18, 14:00",
+        "half_time_result": "1 : 2",
+        "result": "3 : 2"
+    },
+    "1225228": {
+        "match_link": "https://www.whoscored.com/Matches/1225228/Live/Italy-Serie-A-2017-2018-Atalanta-Verona",
+        "away_team_id": 76,
+        "home_team_id": 300,
+        "match_datetime": "Wed, 25-Oct-17, 17:30",
+        "half_time_result": "0 : 0",
+        "result": "3 : 0"
+    },
+    "1225294": {
+        "match_link": "https://www.whoscored.com/Matches/1225294/Live/Italy-Serie-A-2017-2018-Napoli-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 10-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225358": {
+        "match_link": "https://www.whoscored.com/Matches/1225358/Live/Italy-Serie-A-2017-2018-Atalanta-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 04-Feb-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225315": {
+        "match_link": "https://www.whoscored.com/Matches/1225315/Live/Italy-Serie-A-2017-2018-Sassuolo-Inter",
+        "away_team_id": 75,
+        "home_team_id": 2889,
+        "match_datetime": "Sat, 23-Dec-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225203": {
+        "match_link": "https://www.whoscored.com/Matches/1225203/Live/Italy-Serie-A-2017-2018-AC-Milan-Roma",
+        "away_team_id": 84,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 01-Oct-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225382": {
+        "match_link": "https://www.whoscored.com/Matches/1225382/Live/Italy-Serie-A-2017-2018-Inter-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 75,
+        "match_datetime": "Sat, 24-Feb-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225302": {
+        "match_link": "https://www.whoscored.com/Matches/1225302/Live/Italy-Serie-A-2017-2018-Fiorentina-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 17-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225385": {
+        "match_link": "https://www.whoscored.com/Matches/1225385/Live/Italy-Serie-A-2017-2018-Bologna-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 71,
+        "match_datetime": "Sat, 24-Feb-18, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225260": {
+        "match_link": "https://www.whoscored.com/Matches/1225260/Live/Italy-Serie-A-2017-2018-Verona-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 76,
+        "match_datetime": "Mon, 20-Nov-17, 19:45",
+        "half_time_result": "2 : 1",
+        "result": "2 : 3"
+    },
+    "1225355": {
+        "match_link": "https://www.whoscored.com/Matches/1225355/Live/Italy-Serie-A-2017-2018-AC-Milan-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 80,
+        "match_datetime": "Sun, 28-Jan-18, 17:00",
+        "half_time_result": "2 : 1",
+        "result": "2 : 1"
+    },
+    "1225384": {
+        "match_link": "https://www.whoscored.com/Matches/1225384/Live/Italy-Serie-A-2017-2018-Benevento-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 1503,
+        "match_datetime": "Sun, 18-Feb-18, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "3 : 2"
+    },
+    "1225390": {
+        "match_link": "https://www.whoscored.com/Matches/1225390/Live/Italy-Serie-A-2017-2018-Genoa-Inter",
+        "away_team_id": 75,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 17-Feb-18, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225144": {
+        "match_link": "https://www.whoscored.com/Matches/1225144/Live/Italy-Serie-A-2017-2018-Lazio-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225286": {
+        "match_link": "https://www.whoscored.com/Matches/1225286/Live/Italy-Serie-A-2017-2018-Sampdoria-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 03-Dec-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225432": {
+        "match_link": "https://www.whoscored.com/Matches/1225432/Live/Italy-Serie-A-2017-2018-Fiorentina-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 11-Mar-18, 11:30",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225345": {
+        "match_link": "https://www.whoscored.com/Matches/1225345/Live/Italy-Serie-A-2017-2018-Inter-Roma",
+        "away_team_id": 84,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 21-Jan-18, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "1 : 1"
+    },
+    "1225288": {
+        "match_link": "https://www.whoscored.com/Matches/1225288/Live/Italy-Serie-A-2017-2018-Cagliari-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 78,
+        "match_datetime": "Sat, 09-Dec-17, 17:00",
+        "half_time_result": "0 : 2",
+        "result": "2 : 2"
+    },
+    "1225229": {
+        "match_link": "https://www.whoscored.com/Matches/1225229/Live/Italy-Serie-A-2017-2018-Bologna-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 71,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "1 : 2"
+    },
+    "1225388": {
+        "match_link": "https://www.whoscored.com/Matches/1225388/Live/Italy-Serie-A-2017-2018-Lazio-Verona",
+        "away_team_id": 76,
+        "home_team_id": 77,
+        "match_datetime": "Mon, 19-Feb-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225166": {
+        "match_link": "https://www.whoscored.com/Matches/1225166/Live/Italy-Serie-A-2017-2018-Sampdoria-Roma",
+        "away_team_id": 84,
+        "home_team_id": 271,
+        "match_datetime": "Wed, 24-Jan-18, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225212": {
+        "match_link": "https://www.whoscored.com/Matches/1225212/Live/Italy-Serie-A-2017-2018-Verona-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 76,
+        "match_datetime": "Mon, 16-Oct-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225165": {
+        "match_link": "https://www.whoscored.com/Matches/1225165/Live/Italy-Serie-A-2017-2018-Lazio-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 77,
+        "match_datetime": "Sun, 10-Sep-17, 15:00",
+        "half_time_result": "2 : 0",
+        "result": "4 : 1"
+    },
+    "1225194": {
+        "match_link": "https://www.whoscored.com/Matches/1225194/Live/Italy-Serie-A-2017-2018-Roma-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 84,
+        "match_datetime": "Sat, 23-Sep-17, 14:00",
+        "half_time_result": "3 : 0",
+        "result": "3 : 1"
+    },
+    "1225422": {
+        "match_link": "https://www.whoscored.com/Matches/1225422/Live/Italy-Serie-A-2017-2018-Lazio-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 77,
+        "match_datetime": "Sat, 03-Mar-18, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225458": {
+        "match_link": "https://www.whoscored.com/Matches/1225458/Live/Italy-Serie-A-2017-2018-Torino-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 18-Mar-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 2"
+    },
+    "1225237": {
+        "match_link": "https://www.whoscored.com/Matches/1225237/Live/Italy-Serie-A-2017-2018-Sassuolo-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 2889,
+        "match_datetime": "Wed, 25-Oct-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225450": {
+        "match_link": "https://www.whoscored.com/Matches/1225450/Live/Italy-Serie-A-2017-2018-Verona-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 18-Mar-18, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 5"
+    },
+    "1225279": {
+        "match_link": "https://www.whoscored.com/Matches/1225279/Live/Italy-Serie-A-2017-2018-Bologna-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 03-Dec-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "1 : 1"
+    },
+    "1225140": {
+        "match_link": "https://www.whoscored.com/Matches/1225140/Live/Italy-Serie-A-2017-2018-Crotone-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "0 : 3",
+        "result": "0 : 3"
+    },
+    "1225349": {
+        "match_link": "https://www.whoscored.com/Matches/1225349/Live/Italy-Serie-A-2017-2018-Torino-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 28-Jan-18, 14:00",
+        "half_time_result": "3 : 0",
+        "result": "3 : 0"
+    },
+    "1225189": {
+        "match_link": "https://www.whoscored.com/Matches/1225189/Live/Italy-Serie-A-2017-2018-Crotone-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 24-Sep-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225257": {
+        "match_link": "https://www.whoscored.com/Matches/1225257/Live/Italy-Serie-A-2017-2018-Sassuolo-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 05-Nov-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225448": {
+        "match_link": "https://www.whoscored.com/Matches/1225448/Live/Italy-Serie-A-2017-2018-Juventus-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 87,
+        "match_datetime": "Sun, 11-Mar-18, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
+    },
+    "1225154": {
+        "match_link": "https://www.whoscored.com/Matches/1225154/Live/Italy-Serie-A-2017-2018-Napoli-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "3 : 1"
+    },
+    "1225306": {
+        "match_link": "https://www.whoscored.com/Matches/1225306/Live/Italy-Serie-A-2017-2018-Sampdoria-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 17-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225186": {
+        "match_link": "https://www.whoscored.com/Matches/1225186/Live/Italy-Serie-A-2017-2018-AC-Milan-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 80,
+        "match_datetime": "Wed, 20-Sep-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "2 : 0"
     },
     "1225227": {
-        "home_team_id": 86,
-        "half_time_result": "1 : 2",
-        "result": "2 : 6",
         "match_link": "https://www.whoscored.com/Matches/1225227/Live/Italy-Serie-A-2017-2018-Udinese-Juventus",
         "away_team_id": 87,
-        "match_datetime": "Sun, 22-Oct-17, 17:00"
+        "home_team_id": 86,
+        "match_datetime": "Sun, 22-Oct-17, 17:00",
+        "half_time_result": "1 : 2",
+        "result": "2 : 6"
+    },
+    "1225180": {
+        "match_link": "https://www.whoscored.com/Matches/1225180/Live/Italy-Serie-A-2017-2018-Bologna-Inter",
+        "away_team_id": 75,
+        "home_team_id": 71,
+        "match_datetime": "Tue, 19-Sep-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225262": {
+        "match_link": "https://www.whoscored.com/Matches/1225262/Live/Italy-Serie-A-2017-2018-Napoli-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 276,
+        "match_datetime": "Sat, 18-Nov-17, 19:45",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225177": {
+        "match_link": "https://www.whoscored.com/Matches/1225177/Live/Italy-Serie-A-2017-2018-Torino-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 17-Sep-17, 14:00",
+        "half_time_result": "2 : 2",
+        "result": "2 : 2"
+    },
+    "1225245": {
+        "match_link": "https://www.whoscored.com/Matches/1225245/Live/Italy-Serie-A-2017-2018-SPAL-2013-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 29-Oct-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
+    },
+    "1225367": {
+        "match_link": "https://www.whoscored.com/Matches/1225367/Live/Italy-Serie-A-2017-2018-Sampdoria-Torino",
+        "away_team_id": 72,
+        "home_team_id": 271,
+        "match_datetime": "Sat, 03-Feb-18, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 1"
+    },
+    "1225201": {
+        "match_link": "https://www.whoscored.com/Matches/1225201/Live/Italy-Serie-A-2017-2018-Genoa-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 278,
+        "match_datetime": "Sat, 30-Sep-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225343": {
+        "match_link": "https://www.whoscored.com/Matches/1225343/Live/Italy-Serie-A-2017-2018-Cagliari-AC-Milan",
+        "away_team_id": 80,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 21-Jan-18, 17:00",
+        "half_time_result": "1 : 2",
+        "result": "1 : 2"
+    },
+    "1225284": {
+        "match_link": "https://www.whoscored.com/Matches/1225284/Live/Italy-Serie-A-2017-2018-Napoli-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 276,
+        "match_datetime": "Fri, 01-Dec-17, 19:45",
+        "half_time_result": "0 : 1",
+        "result": "0 : 1"
+    },
+    "1225150": {
+        "match_link": "https://www.whoscored.com/Matches/1225150/Live/Italy-Serie-A-2017-2018-Crotone-Verona",
+        "away_team_id": 76,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 27-Aug-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225179": {
+        "match_link": "https://www.whoscored.com/Matches/1225179/Live/Italy-Serie-A-2017-2018-Benevento-Roma",
+        "away_team_id": 84,
+        "home_team_id": 1503,
+        "match_datetime": "Wed, 20-Sep-17, 17:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 4"
+    },
+    "1225327": {
+        "match_link": "https://www.whoscored.com/Matches/1225327/Live/Italy-Serie-A-2017-2018-Torino-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 72,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225216": {
+        "match_link": "https://www.whoscored.com/Matches/1225216/Live/Italy-Serie-A-2017-2018-Sampdoria-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 15-Oct-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "3 : 1"
+    },
+    "1225394": {
+        "match_link": "https://www.whoscored.com/Matches/1225394/Live/Italy-Serie-A-2017-2018-Udinese-Roma",
+        "away_team_id": 84,
+        "home_team_id": 86,
+        "match_datetime": "Sat, 17-Feb-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225161": {
+        "match_link": "https://www.whoscored.com/Matches/1225161/Live/Italy-Serie-A-2017-2018-Cagliari-Crotone",
+        "away_team_id": 779,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 10-Sep-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225255": {
+        "match_link": "https://www.whoscored.com/Matches/1225255/Live/Italy-Serie-A-2017-2018-Juventus-Benevento",
+        "away_team_id": 1503,
+        "home_team_id": 87,
+        "match_datetime": "Sun, 05-Nov-17, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "2 : 1"
+    },
+    "1225291": {
+        "match_link": "https://www.whoscored.com/Matches/1225291/Live/Italy-Serie-A-2017-2018-Juventus-Inter",
+        "away_team_id": 75,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 09-Dec-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225326": {
+        "match_link": "https://www.whoscored.com/Matches/1225326/Live/Italy-Serie-A-2017-2018-Sampdoria-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 271,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225289": {
+        "match_link": "https://www.whoscored.com/Matches/1225289/Live/Italy-Serie-A-2017-2018-Chievo-Roma",
+        "away_team_id": 84,
+        "home_team_id": 267,
+        "match_datetime": "Sun, 10-Dec-17, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225354": {
+        "match_link": "https://www.whoscored.com/Matches/1225354/Live/Italy-Serie-A-2017-2018-Chievo-Juventus",
+        "away_team_id": 87,
+        "home_team_id": 267,
+        "match_datetime": "Sat, 27-Jan-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225440": {
+        "match_link": "https://www.whoscored.com/Matches/1225440/Live/Italy-Serie-A-2017-2018-Inter-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 11-Mar-18, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225271": {
+        "match_link": "https://www.whoscored.com/Matches/1225271/Live/Italy-Serie-A-2017-2018-Chievo-SPAL-2013",
+        "away_team_id": 1502,
+        "home_team_id": 267,
+        "match_datetime": "Sat, 25-Nov-17, 17:00",
+        "half_time_result": "0 : 1",
+        "result": "2 : 1"
+    },
+    "1225147": {
+        "match_link": "https://www.whoscored.com/Matches/1225147/Live/Italy-Serie-A-2017-2018-Udinese-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 86,
+        "match_datetime": "Sun, 20-Aug-17, 19:45",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225191": {
+        "match_link": "https://www.whoscored.com/Matches/1225191/Live/Italy-Serie-A-2017-2018-Verona-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 76,
+        "match_datetime": "Sun, 24-Sep-17, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 3"
+    },
+    "1225309": {
+        "match_link": "https://www.whoscored.com/Matches/1225309/Live/Italy-Serie-A-2017-2018-Chievo-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 267,
+        "match_datetime": "Fri, 22-Dec-17, 17:00",
+        "half_time_result": "1 : 1",
+        "result": "2 : 3"
+    },
+    "1225157": {
+        "match_link": "https://www.whoscored.com/Matches/1225157/Live/Italy-Serie-A-2017-2018-Torino-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 72,
+        "match_datetime": "Sun, 27-Aug-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225141": {
+        "match_link": "https://www.whoscored.com/Matches/1225141/Live/Italy-Serie-A-2017-2018-Verona-Napoli",
+        "away_team_id": 276,
+        "home_team_id": 76,
+        "match_datetime": "Sat, 19-Aug-17, 19:45",
+        "half_time_result": "0 : 2",
+        "result": "1 : 3"
+    },
+    "1225164": {
+        "match_link": "https://www.whoscored.com/Matches/1225164/Live/Italy-Serie-A-2017-2018-Juventus-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 87,
+        "match_datetime": "Sat, 09-Sep-17, 17:00",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225320": {
+        "match_link": "https://www.whoscored.com/Matches/1225320/Live/Italy-Serie-A-2017-2018-Bologna-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 71,
+        "match_datetime": "Sat, 30-Dec-17, 14:00",
+        "half_time_result": "1 : 1",
+        "result": "1 : 2"
+    },
+    "1225329": {
+        "match_link": "https://www.whoscored.com/Matches/1225329/Live/Italy-Serie-A-2017-2018-Torino-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 72,
+        "match_datetime": "Sat, 06-Jan-18, 11:30",
+        "half_time_result": "1 : 0",
+        "result": "3 : 0"
+    },
+    "1225188": {
+        "match_link": "https://www.whoscored.com/Matches/1225188/Live/Italy-Serie-A-2017-2018-Cagliari-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 24-Sep-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 2"
+    },
+    "1225148": {
+        "match_link": "https://www.whoscored.com/Matches/1225148/Live/Italy-Serie-A-2017-2018-Benevento-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 1503,
+        "match_datetime": "Sat, 26-Aug-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225371": {
+        "match_link": "https://www.whoscored.com/Matches/1225371/Live/Italy-Serie-A-2017-2018-Sassuolo-Cagliari",
+        "away_team_id": 78,
+        "home_team_id": 2889,
+        "match_datetime": "Sun, 11-Feb-18, 11:30",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225252": {
+        "match_link": "https://www.whoscored.com/Matches/1225252/Live/Italy-Serie-A-2017-2018-Fiorentina-Roma",
+        "away_team_id": 84,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 05-Nov-17, 14:00",
+        "half_time_result": "2 : 2",
+        "result": "2 : 4"
+    },
+    "1225335": {
+        "match_link": "https://www.whoscored.com/Matches/1225335/Live/Italy-Serie-A-2017-2018-Benevento-Sampdoria",
+        "away_team_id": 271,
+        "home_team_id": 1503,
+        "match_datetime": "Sat, 06-Jan-18, 14:00",
+        "half_time_result": "0 : 1",
+        "result": "3 : 2"
+    },
+    "1225276": {
+        "match_link": "https://www.whoscored.com/Matches/1225276/Live/Italy-Serie-A-2017-2018-Sassuolo-Verona",
+        "away_team_id": 76,
+        "home_team_id": 2889,
+        "match_datetime": "Sat, 25-Nov-17, 17:00",
+        "half_time_result": "0 : 2",
+        "result": "0 : 2"
+    },
+    "1225265": {
+        "match_link": "https://www.whoscored.com/Matches/1225265/Live/Italy-Serie-A-2017-2018-SPAL-2013-Fiorentina",
+        "away_team_id": 73,
+        "home_team_id": 1502,
+        "match_datetime": "Sun, 19-Nov-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 1"
+    },
+    "1225430": {
+        "match_link": "https://www.whoscored.com/Matches/1225430/Live/Italy-Serie-A-2017-2018-Bologna-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 71,
+        "match_datetime": "Sun, 11-Mar-18, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 1"
+    },
+    "1225313": {
+        "match_link": "https://www.whoscored.com/Matches/1225313/Live/Italy-Serie-A-2017-2018-AC-Milan-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 80,
+        "match_datetime": "Sat, 23-Dec-17, 17:00",
+        "half_time_result": "0 : 1",
+        "result": "0 : 2"
+    },
+    "1225462": {
+        "match_link": "https://www.whoscored.com/Matches/1225462/Live/Italy-Serie-A-2017-2018-Sampdoria-Inter",
+        "away_team_id": 75,
+        "home_team_id": 271,
+        "match_datetime": "Sun, 18-Mar-18, 11:30",
+        "half_time_result": "0 : 4",
+        "result": "0 : 5"
+    },
+    "1225324": {
+        "match_link": "https://www.whoscored.com/Matches/1225324/Live/Italy-Serie-A-2017-2018-Inter-Lazio",
+        "away_team_id": 77,
+        "home_team_id": 75,
+        "match_datetime": "Sat, 30-Dec-17, 17:00",
+        "half_time_result": "0 : 0",
+        "result": "0 : 0"
+    },
+    "1225209": {
+        "match_link": "https://www.whoscored.com/Matches/1225209/Live/Italy-Serie-A-2017-2018-Cagliari-Genoa",
+        "away_team_id": 278,
+        "home_team_id": 78,
+        "match_datetime": "Sun, 15-Oct-17, 14:00",
+        "half_time_result": "0 : 2",
+        "result": "2 : 3"
+    },
+    "1225301": {
+        "match_link": "https://www.whoscored.com/Matches/1225301/Live/Italy-Serie-A-2017-2018-Crotone-Chievo",
+        "away_team_id": 267,
+        "home_team_id": 779,
+        "match_datetime": "Sun, 17-Dec-17, 14:00",
+        "half_time_result": "1 : 0",
+        "result": "1 : 0"
+    },
+    "1225350": {
+        "match_link": "https://www.whoscored.com/Matches/1225350/Live/Italy-Serie-A-2017-2018-Napoli-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 276,
+        "match_datetime": "Sun, 28-Jan-18, 14:00",
+        "half_time_result": "2 : 1",
+        "result": "3 : 1"
+    },
+    "1225211": {
+        "match_link": "https://www.whoscored.com/Matches/1225211/Live/Italy-Serie-A-2017-2018-Fiorentina-Udinese",
+        "away_team_id": 86,
+        "home_team_id": 73,
+        "match_datetime": "Sun, 15-Oct-17, 11:30",
+        "half_time_result": "1 : 0",
+        "result": "2 : 1"
+    },
+    "1225261": {
+        "match_link": "https://www.whoscored.com/Matches/1225261/Live/Italy-Serie-A-2017-2018-Inter-Atalanta",
+        "away_team_id": 300,
+        "home_team_id": 75,
+        "match_datetime": "Sun, 19-Nov-17, 19:45",
+        "half_time_result": "0 : 0",
+        "result": "2 : 0"
+    },
+    "1225365": {
+        "match_link": "https://www.whoscored.com/Matches/1225365/Live/Italy-Serie-A-2017-2018-Juventus-Sassuolo",
+        "away_team_id": 2889,
+        "home_team_id": 87,
+        "match_datetime": "Sun, 04-Feb-18, 14:00",
+        "half_time_result": "4 : 0",
+        "result": "7 : 0"
+    },
+    "1225218": {
+        "match_link": "https://www.whoscored.com/Matches/1225218/Live/Italy-Serie-A-2017-2018-Atalanta-Bologna",
+        "away_team_id": 71,
+        "home_team_id": 300,
+        "match_datetime": "Sun, 22-Oct-17, 14:00",
+        "half_time_result": "0 : 0",
+        "result": "1 : 0"
     }
 }
