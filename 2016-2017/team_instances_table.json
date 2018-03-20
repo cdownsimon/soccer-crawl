@@ -1,102 +1,122 @@
 {
     "272": {
+        "team_name": "Empoli",
         "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/272.png",
-        "team_link": "https://www.whoscored.com/Teams/272/Show/Italy-Empoli",
-        "team_name": "Empoli"
-    },
-    "267": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/267.png",
-        "team_link": "https://www.whoscored.com/Teams/267/Show/Italy-Chievo",
-        "team_name": "Chievo"
-    },
-    "779": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/779.png",
-        "team_link": "https://www.whoscored.com/Teams/779/Show/Italy-Crotone",
-        "team_name": "Crotone"
-    },
-    "278": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/278.png",
-        "team_link": "https://www.whoscored.com/Teams/278/Show/Italy-Genoa",
-        "team_name": "Genoa"
-    },
-    "71": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/71.png",
-        "team_link": "https://www.whoscored.com/Teams/71/Show/Italy-Bologna",
-        "team_name": "Bologna"
-    },
-    "72": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/72.png",
-        "team_link": "https://www.whoscored.com/Teams/72/Show/Italy-Torino",
-        "team_name": "Torino"
-    },
-    "73": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/73.png",
-        "team_link": "https://www.whoscored.com/Teams/73/Show/Italy-Fiorentina",
-        "team_name": "Fiorentina"
-    },
-    "277": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/277.png",
-        "team_link": "https://www.whoscored.com/Teams/277/Show/Italy-Pescara",
-        "team_name": "Pescara"
-    },
-    "75": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/75.png",
-        "team_link": "https://www.whoscored.com/Teams/75/Show/Italy-Inter",
-        "team_name": "Inter"
-    },
-    "300": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/300.png",
-        "team_link": "https://www.whoscored.com/Teams/300/Show/Italy-Atalanta",
-        "team_name": "Atalanta"
-    },
-    "77": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/77.png",
-        "team_link": "https://www.whoscored.com/Teams/77/Show/Italy-Lazio",
-        "team_name": "Lazio"
+        "jc_name": "Empoli",
+        "team_link": "https://www.whoscored.com/Teams/272/Show/Italy-Empoli"
     },
     "2889": {
+        "team_name": "Sassuolo",
         "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/2889.png",
-        "team_link": "https://www.whoscored.com/Teams/2889/Show/Italy-Sassuolo",
-        "team_name": "Sassuolo"
+        "jc_name": "Sassuolo",
+        "team_link": "https://www.whoscored.com/Teams/2889/Show/Italy-Sassuolo"
+    },
+    "77": {
+        "team_name": "Lazio",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/77.png",
+        "jc_name": "Lazio",
+        "team_link": "https://www.whoscored.com/Teams/77/Show/Italy-Lazio"
     },
     "271": {
+        "team_name": "Sampdoria",
         "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/271.png",
-        "team_link": "https://www.whoscored.com/Teams/271/Show/Italy-Sampdoria",
-        "team_name": "Sampdoria"
+        "jc_name": "Sampdoria",
+        "team_link": "https://www.whoscored.com/Teams/271/Show/Italy-Sampdoria"
     },
-    "80": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/80.png",
-        "team_link": "https://www.whoscored.com/Teams/80/Show/Italy-AC-Milan",
-        "team_name": "AC Milan"
-    },
-    "276": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/276.png",
-        "team_link": "https://www.whoscored.com/Teams/276/Show/Italy-Napoli",
-        "team_name": "Napoli"
-    },
-    "78": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/78.png",
-        "team_link": "https://www.whoscored.com/Teams/78/Show/Italy-Cagliari",
-        "team_name": "Cagliari"
-    },
-    "86": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/86.png",
-        "team_link": "https://www.whoscored.com/Teams/86/Show/Italy-Udinese",
-        "team_name": "Udinese"
-    },
-    "87": {
-        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/87.png",
-        "team_link": "https://www.whoscored.com/Teams/87/Show/Italy-Juventus",
-        "team_name": "Juventus"
+    "278": {
+        "team_name": "Genoa",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/278.png",
+        "jc_name": "Genoa",
+        "team_link": "https://www.whoscored.com/Teams/278/Show/Italy-Genoa"
     },
     "84": {
+        "team_name": "Roma",
         "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/84.png",
-        "team_link": "https://www.whoscored.com/Teams/84/Show/Italy-Roma",
-        "team_name": "Roma"
+        "jc_name": "Roma",
+        "team_link": "https://www.whoscored.com/Teams/84/Show/Italy-Roma"
     },
     "1285": {
+        "team_name": "Palermo",
         "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/1285.png",
-        "team_link": "https://www.whoscored.com/Teams/1285/Show/Italy-Palermo",
-        "team_name": "Palermo"
+        "jc_name": "Palermo",
+        "team_link": "https://www.whoscored.com/Teams/1285/Show/Italy-Palermo"
+    },
+    "73": {
+        "team_name": "Fiorentina",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/73.png",
+        "jc_name": "Fiorentina",
+        "team_link": "https://www.whoscored.com/Teams/73/Show/Italy-Fiorentina"
+    },
+    "87": {
+        "team_name": "Juventus",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/87.png",
+        "jc_name": "Juventus",
+        "team_link": "https://www.whoscored.com/Teams/87/Show/Italy-Juventus"
+    },
+    "78": {
+        "team_name": "Cagliari",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/78.png",
+        "jc_name": "Cagliari",
+        "team_link": "https://www.whoscored.com/Teams/78/Show/Italy-Cagliari"
+    },
+    "72": {
+        "team_name": "Torino",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/72.png",
+        "jc_name": "AC Torino",
+        "team_link": "https://www.whoscored.com/Teams/72/Show/Italy-Torino"
+    },
+    "267": {
+        "team_name": "Chievo",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/267.png",
+        "jc_name": "Chievo",
+        "team_link": "https://www.whoscored.com/Teams/267/Show/Italy-Chievo"
+    },
+    "277": {
+        "team_name": "Pescara",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/277.png",
+        "jc_name": "Pescara",
+        "team_link": "https://www.whoscored.com/Teams/277/Show/Italy-Pescara"
+    },
+    "276": {
+        "team_name": "Napoli",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/276.png",
+        "jc_name": "Napoli",
+        "team_link": "https://www.whoscored.com/Teams/276/Show/Italy-Napoli"
+    },
+    "71": {
+        "team_name": "Bologna",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/71.png",
+        "jc_name": "Bologna",
+        "team_link": "https://www.whoscored.com/Teams/71/Show/Italy-Bologna"
+    },
+    "80": {
+        "team_name": "AC Milan",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/80.png",
+        "jc_name": "AC Milan",
+        "team_link": "https://www.whoscored.com/Teams/80/Show/Italy-AC-Milan"
+    },
+    "86": {
+        "team_name": "Udinese",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/86.png",
+        "jc_name": "Udinese",
+        "team_link": "https://www.whoscored.com/Teams/86/Show/Italy-Udinese"
+    },
+    "75": {
+        "team_name": "Inter",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/75.png",
+        "jc_name": "Inter Milan",
+        "team_link": "https://www.whoscored.com/Teams/75/Show/Italy-Inter"
+    },
+    "300": {
+        "team_name": "Atalanta",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/300.png",
+        "jc_name": "Atalanta",
+        "team_link": "https://www.whoscored.com/Teams/300/Show/Italy-Atalanta"
+    },
+    "779": {
+        "team_name": "Crotone",
+        "team_img_link": "https://d2zywfiolv4f83.cloudfront.net/img/teams/779.png",
+        "jc_name": "Crotone",
+        "team_link": "https://www.whoscored.com/Teams/779/Show/Italy-Crotone"
     }
 }
